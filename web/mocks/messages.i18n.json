@@ -1,0 +1,3074 @@
+{
+  "Your name": {
+    "pt-BR": "Seu nome",
+    "es": "Tu nombre",
+    "ja": "お名前",
+    "fr": "Votre nom",
+    "de": "Dein Name",
+    "zh-Hans": "你的姓名"
+  },
+  "Clear search": {
+    "pt-BR": "Limpar busca",
+    "es": "Borrar búsqueda",
+    "ja": "検索をクリア",
+    "fr": "Effacer la recherche",
+    "de": "Suche löschen",
+    "zh-Hans": "清除搜索"
+  },
+  "Language": {
+    "pt-BR": "Idioma",
+    "es": "Idioma",
+    "ja": "言語",
+    "fr": "Langue",
+    "de": "Sprache",
+    "zh-Hans": "语言"
+  },
+  "Turing machine": {
+    "pt-BR": "Máquina de Turing",
+    "es": "Máquina de Turing",
+    "ja": "チューリングマシン",
+    "fr": "Machine de Turing",
+    "de": "Turingmaschine",
+    "zh-Hans": "图灵机"
+  },
+  "Formalized a model of computation and the limits of algorithms.": {
+    "pt-BR": "Formalizou um modelo de computação e os limites dos algoritmos.",
+    "es": "Formalizó un modelo de computación y los límites de los algoritmos.",
+    "ja": "計算モデルとアルゴリズムの限界を定式化しました。",
+    "fr": "Il a formalisé un modèle de calcul et les limites des algorithmes.",
+    "de": "Er formalisierte ein Berechnungsmodell und die Grenzen von Algorithmen.",
+    "zh-Hans": "形式化了计算模型与算法的极限。"
+  },
+  "Co-designed a machine used to help break Enigma-encrypted messages.": {
+    "pt-BR": "Colaborou no projeto de uma máquina usada para decifrar mensagens criptografadas pela Enigma.",
+    "es": "Codiseñó una máquina utilizada para ayudar a descifrar mensajes cifrados con Enigma.",
+    "ja": "エニグマ暗号の解読を支援する機械を共同設計しました。",
+    "fr": "Il a participé à la conception d’une machine aidant à déchiffrer les messages chiffrés par Enigma.",
+    "de": "Er entwarf eine Maschine mit, die beim Entschlüsseln von Enigma-Nachrichten half.",
+    "zh-Hans": "参与设计了用于协助破译恩尼格玛加密信息的机器。"
+  },
+  "Apollo flight software": {
+    "pt-BR": "Software de voo Apollo",
+    "es": "Software de vuelo de Apollo",
+    "ja": "アポロ飛行ソフトウェア",
+    "fr": "Logiciel de vol Apollo",
+    "de": "Apollo-Flugsoftware",
+    "zh-Hans": "阿波罗飞行软件"
+  },
+  "Led the MIT team developing onboard guidance software for Apollo.": {
+    "pt-BR": "Liderou a equipe do MIT que desenvolveu o software de orientação embarcado da Apollo.",
+    "es": "Dirigió el equipo del MIT que desarrolló el software de guiado de Apollo.",
+    "ja": "アポロの機上誘導ソフトウェアを開発するMITのチームを率いました。",
+    "fr": "Elle a dirigé l’équipe du MIT développant le logiciel de guidage embarqué d’Apollo.",
+    "de": "Sie leitete das MIT-Team, das die Bordführungssoftware für Apollo entwickelte.",
+    "zh-Hans": "领导MIT团队开发阿波罗机载制导软件。"
+  },
+  "Universal Systems Language": {
+    "pt-BR": "Linguagem Universal de Sistemas",
+    "es": "Lenguaje Universal de Sistemas",
+    "ja": "ユニバーサルシステム言語",
+    "fr": "Langage universel de systèmes",
+    "de": "Universelle Systemsprache",
+    "zh-Hans": "通用系统语言"
+  },
+  "Developed a systems language and a preventive approach to software design.": {
+    "pt-BR": "Desenvolveu uma linguagem de sistemas e uma abordagem preventiva de projeto de software.",
+    "es": "Desarrolló un lenguaje de sistemas y un enfoque preventivo del diseño de software.",
+    "ja": "システム言語と、ソフトウェア設計における予防的な手法を開発しました。",
+    "fr": "Elle a développé un langage système et une approche préventive de la conception logicielle.",
+    "de": "Sie entwickelte eine Systemsprache und einen präventiven Ansatz für den Softwareentwurf.",
+    "zh-Hans": "开发了一种系统语言及预防式软件设计方法。"
+  },
+  "Doom engine": {
+    "pt-BR": "Motor de Doom",
+    "es": "Motor de Doom",
+    "ja": "Doomエンジン",
+    "fr": "Moteur de Doom",
+    "de": "Doom-Engine",
+    "zh-Hans": "Doom引擎"
+  },
+  "Lead programming and rendering technology for id Software’s Doom.": {
+    "pt-BR": "Liderou a programação e a tecnologia de renderização de Doom, da id Software.",
+    "es": "Lideró la programación y la tecnología de renderizado de Doom, de id Software.",
+    "ja": "id SoftwareのDoomでプログラミングと描画技術を主導しました。",
+    "fr": "Il a dirigé la programmation et la technologie de rendu de Doom d’id Software.",
+    "de": "Er leitete die Programmierung und die Rendering-Technik für Doom von id Software.",
+    "zh-Hans": "负责id Software的Doom的主要编程与渲染技术。"
+  },
+  "Quake engine": {
+    "pt-BR": "Motor de Quake",
+    "es": "Motor de Quake",
+    "ja": "Quakeエンジン",
+    "fr": "Moteur de Quake",
+    "de": "Quake-Engine",
+    "zh-Hans": "Quake引擎"
+  },
+  "Helped advance real-time 3D game engines as lead programmer.": {
+    "pt-BR": "Como programador principal, ajudou a avançar os motores de jogos 3D em tempo real.",
+    "es": "Como programador principal, ayudó a avanzar los motores de videojuegos 3D en tiempo real.",
+    "ja": "主任プログラマーとしてリアルタイム3Dゲームエンジンの発展に貢献しました。",
+    "fr": "En tant que programmeur principal, il a fait progresser les moteurs de jeux 3D en temps réel.",
+    "de": "Als leitender Programmierer brachte er Echtzeit-3D-Spiele-Engines voran.",
+    "zh-Hans": "作为首席程序员，推动了实时三维游戏引擎的发展。"
+  },
+  "A-0 System": {
+    "pt-BR": "Sistema A-0",
+    "es": "Sistema A-0",
+    "ja": "A-0システム",
+    "fr": "Système A-0",
+    "de": "A-0-System",
+    "zh-Hans": "A-0系统"
+  },
+  "Developed an early compiler system for the UNIVAC I.": {
+    "pt-BR": "Desenvolveu um dos primeiros sistemas de compilação para o UNIVAC I.",
+    "es": "Desarrolló uno de los primeros sistemas compiladores para UNIVAC I.",
+    "ja": "UNIVAC I向けの初期のコンパイラーシステムを開発しました。",
+    "fr": "Elle a développé un des premiers systèmes de compilation pour l’UNIVAC I.",
+    "de": "Sie entwickelte ein frühes Compilersystem für den UNIVAC I.",
+    "zh-Hans": "为UNIVAC I开发了早期编译系统。"
+  },
+  "Led FLOW-MATIC development; her work helped shape COBOL.": {
+    "pt-BR": "Liderou o desenvolvimento do FLOW-MATIC; seu trabalho ajudou a moldar o COBOL.",
+    "es": "Dirigió el desarrollo de FLOW-MATIC; su trabajo ayudó a dar forma a COBOL.",
+    "ja": "FLOW-MATICの開発を率い、その成果はCOBOLの形成に貢献しました。",
+    "fr": "Elle a dirigé le développement de FLOW-MATIC ; ses travaux ont contribué à façonner COBOL.",
+    "de": "Sie leitete die Entwicklung von FLOW-MATIC; ihre Arbeit prägte COBOL mit.",
+    "zh-Hans": "领导FLOW-MATIC的开发，其工作帮助塑造了COBOL。"
+  },
+  "Linux kernel": {
+    "pt-BR": "Núcleo Linux",
+    "es": "Núcleo Linux",
+    "ja": "Linuxカーネル",
+    "fr": "Noyau Linux",
+    "de": "Linux-Kernel",
+    "zh-Hans": "Linux内核"
+  },
+  "Created the kernel and leads its collaborative development.": {
+    "pt-BR": "Criou o núcleo e lidera seu desenvolvimento colaborativo.",
+    "es": "Creó el núcleo y dirige su desarrollo colaborativo.",
+    "ja": "カーネルを作成し、その共同開発を主導しています。",
+    "fr": "Il a créé le noyau et dirige son développement collaboratif.",
+    "de": "Er schuf den Kernel und leitet seine gemeinschaftliche Entwicklung.",
+    "zh-Hans": "创建了内核，并领导其协作开发。"
+  },
+  "Created the distributed version control system in 2005.": {
+    "pt-BR": "Criou o sistema distribuído de controle de versão em 2005.",
+    "es": "Creó el sistema distribuido de control de versiones en 2005.",
+    "ja": "2005年に分散型バージョン管理システムを開発しました。",
+    "fr": "Il a créé le système de gestion de versions distribué en 2005.",
+    "de": "Er schuf das verteilte Versionsverwaltungssystem im Jahr 2005.",
+    "zh-Hans": "于2005年创建了这一分布式版本控制系统。"
+  },
+  "Note G · Bernoulli numbers": {
+    "pt-BR": "Nota G · Números de Bernoulli",
+    "es": "Nota G · Números de Bernoulli",
+    "ja": "注釈G・ベルヌーイ数",
+    "fr": "Note G · Nombres de Bernoulli",
+    "de": "Anmerkung G · Bernoulli-Zahlen",
+    "zh-Hans": "注释G · 伯努利数"
+  },
+  "Published a method for calculating Bernoulli numbers on the Analytical Engine.": {
+    "pt-BR": "Publicou um método para calcular números de Bernoulli na Máquina Analítica.",
+    "es": "Publicó un método para calcular números de Bernoulli en la máquina analítica.",
+    "ja": "解析機関でベルヌーイ数を計算する方法を発表しました。",
+    "fr": "Elle a publié une méthode de calcul des nombres de Bernoulli sur la machine analytique.",
+    "de": "Sie veröffentlichte ein Verfahren zur Berechnung von Bernoulli-Zahlen auf der analytischen Maschine.",
+    "zh-Hans": "发表了在分析机上计算伯努利数的方法。"
+  },
+  "Analytical Engine notes": {
+    "pt-BR": "Notas sobre a Máquina Analítica",
+    "es": "Notas sobre la máquina analítica",
+    "ja": "解析機関に関する注釈",
+    "fr": "Notes sur la machine analytique",
+    "de": "Anmerkungen zur analytischen Maschine",
+    "zh-Hans": "分析机笔记"
+  },
+  "Explored how a general-purpose machine could work with more than numbers.": {
+    "pt-BR": "Explorou como uma máquina de uso geral poderia trabalhar com mais do que números.",
+    "es": "Exploró cómo una máquina de propósito general podría trabajar con algo más que números.",
+    "ja": "汎用機械が数値以外も扱える可能性を探りました。",
+    "fr": "Elle a exploré comment une machine universelle pourrait traiter autre chose que des nombres.",
+    "de": "Sie untersuchte, wie eine universelle Maschine mit mehr als Zahlen arbeiten könnte.",
+    "zh-Hans": "探索了通用机器处理数字以外内容的可能性。"
+  },
+  "The father of theoretical computer science": {
+    "pt-BR": "O pai da ciência da computação teórica",
+    "es": "El padre de la informática teórica",
+    "ja": "理論計算機科学の父",
+    "fr": "Le père de l’informatique théorique",
+    "de": "Der Vater der theoretischen Informatik",
+    "zh-Hans": "理论计算机科学之父"
+  },
+  "Mathematician. Codebreaker. A mind that helped define what a machine could think. His work laid the foundations of modern computing.": {
+    "pt-BR": "Matemático e criptoanalista. Uma mente que ajudou a definir o que uma máquina poderia pensar. Seu trabalho lançou as bases da computação moderna.",
+    "es": "Matemático y criptoanalista. Una mente que ayudó a definir qué podría pensar una máquina. Su trabajo sentó las bases de la informática moderna.",
+    "ja": "数学者であり暗号解読者。機械が何を考えられるかを定義することに貢献し、現代のコンピューティングの基礎を築きました。",
+    "fr": "Mathématicien et cryptanalyste. Un esprit qui a contribué à définir ce qu’une machine pourrait penser. Ses travaux ont posé les bases de l’informatique moderne.",
+    "de": "Mathematiker und Kryptoanalytiker. Er half zu definieren, was eine Maschine denken könnte. Seine Arbeit legte die Grundlagen der modernen Informatik.",
+    "zh-Hans": "数学家、密码破译者。他帮助定义机器能够思考什么，其工作为现代计算技术奠定了基础。"
+  },
+  "United Kingdom": {
+    "pt-BR": "Reino Unido",
+    "es": "Reino Unido",
+    "ja": "イギリス",
+    "fr": "Royaume-Uni",
+    "de": "Vereinigtes Königreich",
+    "zh-Hans": "英国"
+  },
+  "Computability": {
+    "pt-BR": "Computabilidade",
+    "es": "Computabilidad",
+    "ja": "計算可能性",
+    "fr": "Calculabilité",
+    "de": "Berechenbarkeit",
+    "zh-Hans": "可计算性"
+  },
+  "Software engineer · Apollo program": {
+    "pt-BR": "Engenheira de software · Programa Apollo",
+    "es": "Ingeniera de software · Programa Apollo",
+    "ja": "ソフトウェア技術者・アポロ計画",
+    "fr": "Ingénieure logiciel · Programme Apollo",
+    "de": "Softwareingenieurin · Apollo-Programm",
+    "zh-Hans": "软件工程师 · 阿波罗计划"
+  },
+  "Led the team that developed the onboard flight software for NASA’s Apollo missions. Her approach to reliability helped make the Moon landing possible.": {
+    "pt-BR": "Liderou a equipe que desenvolveu o software de voo embarcado das missões Apollo da NASA. Sua abordagem de confiabilidade ajudou a tornar possível o pouso na Lua.",
+    "es": "Dirigió el equipo que desarrolló el software de vuelo de las misiones Apollo de la NASA. Su enfoque de fiabilidad ayudó a hacer posible el alunizaje.",
+    "ja": "NASAのアポロ計画で機上飛行ソフトウェアを開発するチームを率いました。信頼性を重視する手法が月面着陸の実現に貢献しました。",
+    "fr": "Elle a dirigé l’équipe qui a développé le logiciel de vol embarqué des missions Apollo de la NASA. Son approche de la fiabilité a contribué à rendre l’alunissage possible.",
+    "de": "Sie leitete das Team, das die Bordsoftware für die Apollo-Missionen der NASA entwickelte. Ihr Ansatz zur Zuverlässigkeit trug dazu bei, die Mondlandung zu ermöglichen.",
+    "zh-Hans": "领导团队开发了NASA阿波罗任务的机载飞行软件。她对可靠性的重视帮助实现了登月。"
+  },
+  "United States": {
+    "pt-BR": "Estados Unidos",
+    "es": "Estados Unidos",
+    "ja": "アメリカ合衆国",
+    "fr": "États-Unis",
+    "de": "Vereinigte Staaten",
+    "zh-Hans": "美国"
+  },
+  "Software engineering": {
+    "pt-BR": "Engenharia de software",
+    "es": "Ingeniería de software",
+    "ja": "ソフトウェア工学",
+    "fr": "Génie logiciel",
+    "de": "Softwaretechnik",
+    "zh-Hans": "软件工程"
+  },
+  "Game developer · Co-founder, id Software": {
+    "pt-BR": "Desenvolvedor de jogos · Cofundador da id Software",
+    "es": "Desarrollador de videojuegos · Cofundador de id Software",
+    "ja": "ゲーム開発者・id Software共同創業者",
+    "fr": "Développeur de jeux · Cofondateur d’id Software",
+    "de": "Spieleentwickler · Mitgründer von id Software",
+    "zh-Hans": "游戏开发者 · id Software联合创始人"
+  },
+  "A pioneering engineer behind Doom and Quake, whose work in real-time 3D graphics changed how we build and experience virtual worlds.": {
+    "pt-BR": "Engenheiro pioneiro por trás de Doom e Quake, cujo trabalho com gráficos 3D em tempo real transformou a maneira de criar e vivenciar mundos virtuais.",
+    "es": "Ingeniero pionero detrás de Doom y Quake, cuyo trabajo en gráficos 3D en tiempo real cambió cómo construimos y experimentamos mundos virtuales.",
+    "ja": "DoomとQuakeを支えた先駆的な技術者。リアルタイム3Dグラフィックスの研究開発により、仮想世界の作り方と体験の仕方を変えました。",
+    "fr": "Ingénieur pionnier derrière Doom et Quake, dont les travaux sur les graphismes 3D en temps réel ont transformé la création et l’expérience des mondes virtuels.",
+    "de": "Ein wegweisender Ingenieur hinter Doom und Quake, dessen Arbeit an Echtzeit-3D-Grafik die Entwicklung und das Erleben virtueller Welten veränderte.",
+    "zh-Hans": "Doom和Quake背后的先驱工程师。他在实时三维图形领域的工作改变了我们构建和体验虚拟世界的方式。"
+  },
+  "Game engines": {
+    "pt-BR": "Motores de jogos",
+    "es": "Motores de videojuegos",
+    "ja": "ゲームエンジン",
+    "fr": "Moteurs de jeux",
+    "de": "Spiele-Engines",
+    "zh-Hans": "游戏引擎"
+  },
+  "Computer graphics": {
+    "pt-BR": "Computação gráfica",
+    "es": "Gráficos por computadora",
+    "ja": "コンピューターグラフィックス",
+    "fr": "Infographie",
+    "de": "Computergrafik",
+    "zh-Hans": "计算机图形学"
+  },
+  "Computer scientist · Programming pioneer": {
+    "pt-BR": "Cientista da computação · Pioneira da programação",
+    "es": "Científica informática · Pionera de la programación",
+    "ja": "計算機科学者・プログラミングの先駆者",
+    "fr": "Informaticienne · Pionnière de la programmation",
+    "de": "Informatikerin · Pionierin der Programmierung",
+    "zh-Hans": "计算机科学家 · 编程先驱"
+  },
+  "A pioneer of compiler technology who helped shape COBOL and made programming more accessible through human-readable languages.": {
+    "pt-BR": "Pioneira da tecnologia de compiladores, ajudou a moldar o COBOL e tornou a programação mais acessível por meio de linguagens legíveis por humanos.",
+    "es": "Pionera de la tecnología de compiladores que ayudó a dar forma a COBOL e hizo la programación más accesible mediante lenguajes legibles por humanos.",
+    "ja": "コンパイラー技術の先駆者。COBOLの形成に貢献し、人間が読みやすい言語によってプログラミングをより身近なものにしました。",
+    "fr": "Pionnière des compilateurs, elle a contribué à façonner COBOL et à rendre la programmation plus accessible grâce à des langages lisibles par les humains.",
+    "de": "Eine Pionierin der Compilertechnik, die COBOL mitprägte und die Programmierung durch menschenlesbare Sprachen zugänglicher machte.",
+    "zh-Hans": "编译器技术先驱，帮助塑造了COBOL，并通过人类可读的语言让编程更易于使用。"
+  },
+  "Compilers": {
+    "pt-BR": "Compiladores",
+    "es": "Compiladores",
+    "ja": "コンパイラー",
+    "fr": "Compilateurs",
+    "de": "Compiler",
+    "zh-Hans": "编译器"
+  },
+  "Creator of Linux & Git": {
+    "pt-BR": "Criador do Linux e do Git",
+    "es": "Creador de Linux y Git",
+    "ja": "LinuxとGitの生みの親",
+    "fr": "Créateur de Linux et Git",
+    "de": "Schöpfer von Linux und Git",
+    "zh-Hans": "Linux与Git的创造者"
+  },
+  "Created the Linux kernel and Git, two essential foundations of open source collaboration and modern software development.": {
+    "pt-BR": "Criou o núcleo Linux e o Git, duas bases essenciais da colaboração em código aberto e do desenvolvimento moderno de software.",
+    "es": "Creó el núcleo Linux y Git, dos bases esenciales de la colaboración de código abierto y del desarrollo moderno de software.",
+    "ja": "LinuxカーネルとGitを開発しました。どちらもオープンソースの共同作業と現代のソフトウェア開発を支える重要な基盤です。",
+    "fr": "Il a créé le noyau Linux et Git, deux fondements essentiels de la collaboration autour du code source ouvert et du développement logiciel moderne.",
+    "de": "Er schuf den Linux-Kernel und Git, zwei wesentliche Grundlagen der Zusammenarbeit an quelloffener Software und der modernen Softwareentwicklung.",
+    "zh-Hans": "创建了Linux内核和Git，两者都是开源协作和现代软件开发的重要基础。"
+  },
+  "Finland": {
+    "pt-BR": "Finlândia",
+    "es": "Finlandia",
+    "ja": "フィンランド",
+    "fr": "Finlande",
+    "de": "Finnland",
+    "zh-Hans": "芬兰"
+  },
+  "Open source": {
+    "pt-BR": "Código aberto",
+    "es": "Código abierto",
+    "ja": "オープンソース",
+    "fr": "Code source ouvert",
+    "de": "Quelloffene Software",
+    "zh-Hans": "开源"
+  },
+  "Mathematician · Computing visionary": {
+    "pt-BR": "Matemática · Visionária da computação",
+    "es": "Matemática · Visionaria de la informática",
+    "ja": "数学者・コンピューティングの先見者",
+    "fr": "Mathématicienne · Visionnaire de l’informatique",
+    "de": "Mathematikerin · Visionärin der Informatik",
+    "zh-Hans": "数学家 · 计算技术先驱"
+  },
+  "Her notes on the Analytical Engine included an algorithm intended for a machine and a remarkable vision for computing beyond arithmetic.": {
+    "pt-BR": "Suas notas sobre a Máquina Analítica incluíam um algoritmo destinado a uma máquina e uma visão notável da computação além da aritmética.",
+    "es": "Sus notas sobre la máquina analítica incluían un algoritmo destinado a una máquina y una notable visión de la informática más allá de la aritmética.",
+    "ja": "解析機関に関する注釈には、機械向けのアルゴリズムと、算術を超えたコンピューティングの可能性への卓越した洞察が含まれていました。",
+    "fr": "Ses notes sur la machine analytique comprenaient un algorithme destiné à une machine et une vision remarquable de l’informatique au-delà de l’arithmétique.",
+    "de": "Ihre Anmerkungen zur analytischen Maschine enthielten einen für eine Maschine bestimmten Algorithmus und eine bemerkenswerte Vision des Rechnens über die Arithmetik hinaus.",
+    "zh-Hans": "她关于分析机的笔记包含了为机器设计的算法，以及超越算术运算的计算愿景。"
+  },
+  "Algorithms": {
+    "pt-BR": "Algoritmos",
+    "es": "Algoritmos",
+    "ja": "アルゴリズム",
+    "fr": "Algorithmes",
+    "de": "Algorithmen",
+    "zh-Hans": "算法"
+  },
+  "History": {
+    "pt-BR": "História",
+    "es": "Historia",
+    "ja": "歴史",
+    "fr": "Histoire",
+    "de": "Geschichte",
+    "zh-Hans": "历史"
+  },
+  "Loading contribution form…": {
+    "pt-BR": "Carregando formulário de contribuição…",
+    "es": "Cargando formulario de contribución…",
+    "ja": "貢献フォームを読み込み中…",
+    "fr": "Chargement du formulaire de contribution…",
+    "de": "Beitragsformular wird geladen…",
+    "zh-Hans": "正在加载贡献表单…"
+  },
+  "Knowledge base": {
+    "pt-BR": "Base de conhecimento",
+    "es": "Base de conocimiento",
+    "ja": "ナレッジベース",
+    "fr": "Base de connaissances",
+    "de": "Wissensdatenbank",
+    "zh-Hans": "知识库"
+  },
+  "Read further": {
+    "pt-BR": "Leia mais",
+    "es": "Sigue leyendo",
+    "ja": "さらに読む",
+    "fr": "Pour aller plus loin",
+    "de": "Weiterlesen",
+    "zh-Hans": "延伸阅读"
+  },
+  "Reference and further reading": {
+    "pt-BR": "Referência e leitura complementar",
+    "es": "Referencia y lectura complementaria",
+    "ja": "参考資料と関連記事",
+    "fr": "Référence et lectures complémentaires",
+    "de": "Quelle und weiterführende Lektüre",
+    "zh-Hans": "参考资料与延伸阅读"
+  },
+  "Skip to content": {
+    "pt-BR": "Pular para o conteúdo",
+    "es": "Saltar al contenido",
+    "ja": "本文へ移動",
+    "fr": "Aller au contenu",
+    "de": "Zum Inhalt springen",
+    "zh-Hans": "跳转到内容"
+  },
+  "404 / Page not found": {
+    "pt-BR": "404 / Página não encontrada",
+    "es": "404 / Página no encontrada",
+    "ja": "404 / ページが見つかりません",
+    "fr": "404 / Page introuvable",
+    "de": "404 / Seite nicht gefunden",
+    "zh-Hans": "404 / 页面未找到"
+  },
+  "This page isn’t in the directory.": {
+    "pt-BR": "Esta página não está no diretório.",
+    "es": "Esta página no está en el directorio.",
+    "ja": "このページはディレクトリにありません。",
+    "fr": "Cette page ne figure pas dans l’annuaire.",
+    "de": "Diese Seite steht nicht im Verzeichnis.",
+    "zh-Hans": "此页面不在目录中。"
+  },
+  "Head back to Developer Magazine to find people, projects, and knowledge.": {
+    "pt-BR": "Volte à Developer Magazine para encontrar pessoas, projetos e conhecimento.",
+    "es": "Vuelve a Developer Magazine para encontrar personas, proyectos y conocimiento.",
+    "ja": "Developer Magazine に戻って、人物、プロジェクト、知識を探しましょう。",
+    "fr": "Revenez sur Developer Magazine pour découvrir des personnes, des projets et des ressources.",
+    "de": "Kehre zu Developer Magazine zurück, um Menschen, Projekte und Wissen zu entdecken.",
+    "zh-Hans": "返回 Developer Magazine，探索人物、项目和知识。"
+  },
+  "Go home": {
+    "pt-BR": "Voltar ao início",
+    "es": "Volver al inicio",
+    "ja": "ホームに戻る",
+    "fr": "Retour à l’accueil",
+    "de": "Zur Startseite",
+    "zh-Hans": "返回首页"
+  },
+  "A home for the people who build technology": {
+    "pt-BR": "Um espaço para quem cria tecnologia",
+    "es": "Un espacio para quienes crean tecnología",
+    "ja": "テクノロジーをつくる人々のための場所",
+    "fr": "Un espace pour celles et ceux qui créent la technologie",
+    "de": "Ein Ort für Menschen, die Technologie gestalten",
+    "zh-Hans": "为技术创造者而设的空间"
+  },
+  "The people": {
+    "pt-BR": "As pessoas",
+    "es": "Las personas",
+    "ja": "テクノロジーを",
+    "fr": "Les personnes",
+    "de": "Die Menschen",
+    "zh-Hans": "技术"
+  },
+  "behind the": {
+    "pt-BR": "por trás da",
+    "es": "detrás de la",
+    "ja": "支える",
+    "fr": "derrière la",
+    "de": "hinter der",
+    "zh-Hans": "背后的"
+  },
+  "technology.": {
+    "pt-BR": "tecnologia.",
+    "es": "tecnología.",
+    "ja": "人々。",
+    "fr": "technologie.",
+    "de": "Technologie.",
+    "zh-Hans": "人们。"
+  },
+  "Discover the minds, projects, and ideas shaping our digital world. One place to document what we build, and the people who make it possible.": {
+    "pt-BR": "Conheça as mentes, os projetos e as ideias que moldam nosso mundo digital. Um lugar para registrar o que criamos e quem torna tudo isso possível.",
+    "es": "Descubre las mentes, los proyectos y las ideas que moldean nuestro mundo digital. Un lugar para documentar lo que creamos y a quienes lo hacen posible.",
+    "ja": "デジタル世界を形づくる人々、プロジェクト、アイデアを発見しましょう。私たちがつくるものと、それを支える人々を記録する場所です。",
+    "fr": "Découvrez les esprits, les projets et les idées qui façonnent notre monde numérique. Un lieu pour documenter nos créations et les personnes qui les rendent possibles.",
+    "de": "Entdecke die Menschen, Projekte und Ideen, die unsere digitale Welt prägen. Ein Ort, um unsere Arbeit und die Menschen dahinter zu dokumentieren.",
+    "zh-Hans": "探索塑造数字世界的人物、项目和创意。在这里记录我们创造的成果，以及让这一切成为可能的人。"
+  },
+  "Explore projects": {
+    "pt-BR": "Explorar projetos",
+    "es": "Explorar proyectos",
+    "ja": "プロジェクトを探す",
+    "fr": "Explorer les projets",
+    "de": "Projekte entdecken",
+    "zh-Hans": "探索项目"
+  },
+  "Explore people": {
+    "pt-BR": "Explorar pessoas",
+    "es": "Explorar personas",
+    "ja": "人物を探す",
+    "fr": "Découvrir les personnes",
+    "de": "Menschen entdecken",
+    "zh-Hans": "探索人物"
+  },
+  "Open knowledge, built together.": {
+    "pt-BR": "Conhecimento aberto, construído em conjunto.",
+    "es": "Conocimiento abierto, construido en común.",
+    "ja": "みんなでつくる、開かれた知識。",
+    "fr": "Des connaissances ouvertes, construites ensemble.",
+    "de": "Offenes Wissen, gemeinsam geschaffen.",
+    "zh-Hans": "开放知识，由大家共建。"
+  },
+  "Built by a community": {
+    "pt-BR": "Construído pela comunidade",
+    "es": "Creado por una comunidad",
+    "ja": "コミュニティがつくる",
+    "fr": "Créé par une communauté",
+    "de": "Von einer Community aufgebaut",
+    "zh-Hans": "由社区共同打造"
+  },
+  "Meet the people behind the work": {
+    "pt-BR": "Conheça quem faz o trabalho acontecer",
+    "es": "Conoce a quienes hacen posible el trabajo",
+    "ja": "活動を支える人々に出会う",
+    "fr": "Rencontrez les personnes derrière ces travaux",
+    "de": "Lerne die Menschen hinter der Arbeit kennen",
+    "zh-Hans": "认识工作背后的人们"
+  },
+  "The people directory": {
+    "pt-BR": "O diretório de pessoas",
+    "es": "El directorio de personas",
+    "ja": "人物ディレクトリ",
+    "fr": "L’annuaire des personnes",
+    "de": "Das Personenverzeichnis",
+    "zh-Hans": "人物目录"
+  },
+  "Meet the builders": {
+    "pt-BR": "Conheça quem cria",
+    "es": "Conoce a quienes crean",
+    "ja": "つくり手に出会う",
+    "fr": "Rencontrez les créateurs",
+    "de": "Lerne die Macher kennen",
+    "zh-Hans": "认识创造者"
+  },
+  "All people": {
+    "pt-BR": "Todas as pessoas",
+    "es": "Todas las personas",
+    "ja": "すべての人物",
+    "fr": "Toutes les personnes",
+    "de": "Alle Personen",
+    "zh-Hans": "全部人物"
+  },
+  "Work that matters": {
+    "pt-BR": "Trabalhos que fazem a diferença",
+    "es": "Trabajos que marcan la diferencia",
+    "ja": "意義ある取り組み",
+    "fr": "Des travaux qui comptent",
+    "de": "Arbeit, die etwas bewegt",
+    "zh-Hans": "有价值的工作"
+  },
+  "Explore the projects": {
+    "pt-BR": "Explore os projetos",
+    "es": "Explora los proyectos",
+    "ja": "プロジェクトを見てみる",
+    "fr": "Explorez les projets",
+    "de": "Entdecke die Projekte",
+    "zh-Hans": "浏览项目"
+  },
+  "All projects": {
+    "pt-BR": "Todos os projetos",
+    "es": "Todos los proyectos",
+    "ja": "すべてのプロジェクト",
+    "fr": "Tous les projets",
+    "de": "Alle Projekte",
+    "zh-Hans": "全部项目"
+  },
+  "The knowledge base": {
+    "pt-BR": "A base de conhecimento",
+    "es": "La base de conocimiento",
+    "ja": "ナレッジベース",
+    "fr": "La base de connaissances",
+    "de": "Die Wissensdatenbank",
+    "zh-Hans": "知识库"
+  },
+  "Learn from the work": {
+    "pt-BR": "Aprenda com a prática",
+    "es": "Aprende de la práctica",
+    "ja": "取り組みから学ぶ",
+    "fr": "Apprenez de la pratique",
+    "de": "Lerne aus der Praxis",
+    "zh-Hans": "从实践中学习"
+  },
+  "All articles": {
+    "pt-BR": "Todos os artigos",
+    "es": "Todos los artículos",
+    "ja": "すべての記事",
+    "fr": "Tous les articles",
+    "de": "Alle Artikel",
+    "zh-Hans": "全部文章"
+  },
+  "Built together": {
+    "pt-BR": "Construído em conjunto",
+    "es": "Construido en común",
+    "ja": "みんなでつくる",
+    "fr": "Construit ensemble",
+    "de": "Gemeinsam aufgebaut",
+    "zh-Hans": "携手共建"
+  },
+  "What are you building?": {
+    "pt-BR": "O que você está criando?",
+    "es": "¿Qué estás creando?",
+    "ja": "何をつくっていますか？",
+    "fr": "Que créez-vous ?",
+    "de": "Woran arbeitest du?",
+    "zh-Hans": "你正在创造什么？"
+  },
+  "Find your place in a community that values the work behind technology.": {
+    "pt-BR": "Encontre seu lugar em uma comunidade que valoriza o trabalho por trás da tecnologia.",
+    "es": "Encuentra tu lugar en una comunidad que valora el trabajo detrás de la tecnología.",
+    "ja": "テクノロジーを支える仕事を大切にするコミュニティで、あなたの居場所を見つけましょう。",
+    "fr": "Trouvez votre place dans une communauté qui valorise le travail derrière la technologie.",
+    "de": "Finde deinen Platz in einer Community, die die Arbeit hinter der Technologie schätzt.",
+    "zh-Hans": "在重视技术背后工作的社区中，找到属于你的位置。"
+  },
+  "Explore the team": {
+    "pt-BR": "Conhecer a equipe",
+    "es": "Conoce al equipo",
+    "ja": "チームを見る",
+    "fr": "Découvrir l’équipe",
+    "de": "Team kennenlernen",
+    "zh-Hans": "了解团队"
+  },
+  "People directory": {
+    "pt-BR": "Diretório de pessoas",
+    "es": "Directorio de personas",
+    "ja": "人物ディレクトリ",
+    "fr": "Annuaire des personnes",
+    "de": "Personenverzeichnis",
+    "zh-Hans": "人物目录"
+  },
+  "Documented contributions": {
+    "pt-BR": "Contribuições documentadas",
+    "es": "Contribuciones documentadas",
+    "ja": "記録された貢献",
+    "fr": "Contributions documentées",
+    "de": "Dokumentierte Beiträge",
+    "zh-Hans": "已记录的贡献"
+  },
+  "Catalog projects": {
+    "pt-BR": "Projetos no catálogo",
+    "es": "Proyectos en el catálogo",
+    "ja": "カタログのプロジェクト",
+    "fr": "Projets du catalogue",
+    "de": "Projekte im Katalog",
+    "zh-Hans": "目录中的项目"
+  },
+  "Profile sections": {
+    "pt-BR": "Seções do perfil",
+    "es": "Secciones del perfil",
+    "ja": "プロフィールのセクション",
+    "fr": "Sections du profil",
+    "de": "Profilabschnitte",
+    "zh-Hans": "个人资料章节"
+  },
+  "Overview": {
+    "pt-BR": "Visão geral",
+    "es": "Vista general",
+    "ja": "概要",
+    "fr": "Vue d’ensemble",
+    "de": "Übersicht",
+    "zh-Hans": "概览"
+  },
+  "Contributions": {
+    "pt-BR": "Contribuições",
+    "es": "Contribuciones",
+    "ja": "貢献",
+    "fr": "Contributions",
+    "de": "Beiträge",
+    "zh-Hans": "贡献"
+  },
+  "References": {
+    "pt-BR": "Referências",
+    "es": "Referencias",
+    "ja": "参考資料",
+    "fr": "Références",
+    "de": "Quellen",
+    "zh-Hans": "参考资料"
+  },
+  "About": {
+    "pt-BR": "Sobre",
+    "es": "Acerca de",
+    "ja": "詳細",
+    "fr": "À propos",
+    "de": "Überblick",
+    "zh-Hans": "关于"
+  },
+  "Projects & contributions": {
+    "pt-BR": "Projetos e contribuições",
+    "es": "Proyectos y contribuciones",
+    "ja": "プロジェクトと貢献",
+    "fr": "Projets et contributions",
+    "de": "Projekte und Beiträge",
+    "zh-Hans": "项目与贡献"
+  },
+  "In the project directory": {
+    "pt-BR": "No diretório de projetos",
+    "es": "En el directorio de proyectos",
+    "ja": "プロジェクト一覧",
+    "fr": "Dans l’annuaire des projets",
+    "de": "Im Projektverzeichnis",
+    "zh-Hans": "项目目录中"
+  },
+  "See this person’s documented work in Contributions.": {
+    "pt-BR": "Veja os trabalhos documentados dessa pessoa em Contribuições.",
+    "es": "Consulta el trabajo documentado de esta persona en Contribuciones.",
+    "ja": "この人物の活動記録は「貢献」で確認できます。",
+    "fr": "Consultez le travail documenté de cette personne dans Contributions.",
+    "de": "Die dokumentierte Arbeit dieser Person findest du unter Beiträge.",
+    "zh-Hans": "在“贡献”中查看此人已记录的工作。"
+  },
+  "Wikipedia biography": {
+    "pt-BR": "Biografia na Wikipédia",
+    "es": "Biografía en Wikipedia",
+    "ja": "ウィキペディアの略歴",
+    "fr": "Biographie sur Wikipédia",
+    "de": "Biografie auf Wikipedia",
+    "zh-Hans": "维基百科传记"
+  },
+  "Portrait:": {
+    "pt-BR": "Retrato:",
+    "es": "Retrato:",
+    "ja": "肖像：",
+    "fr": "Portrait :",
+    "de": "Porträt:",
+    "zh-Hans": "肖像："
+  },
+  "· Resized": {
+    "pt-BR": "· Redimensionado",
+    "es": "· Redimensionado",
+    "ja": "· サイズ変更済み",
+    "fr": "· Redimensionné",
+    "de": "· Größe angepasst",
+    "zh-Hans": "· 已调整尺寸"
+  },
+  "Project directory": {
+    "pt-BR": "Diretório de projetos",
+    "es": "Directorio de proyectos",
+    "ja": "プロジェクトディレクトリ",
+    "fr": "Annuaire des projets",
+    "de": "Projektverzeichnis",
+    "zh-Hans": "项目目录"
+  },
+  "Project sections": {
+    "pt-BR": "Seções do projeto",
+    "es": "Secciones del proyecto",
+    "ja": "プロジェクトのセクション",
+    "fr": "Sections du projet",
+    "de": "Projektabschnitte",
+    "zh-Hans": "项目章节"
+  },
+  "Contributors": {
+    "pt-BR": "Colaboradores",
+    "es": "Colaboradores",
+    "ja": "貢献者",
+    "fr": "Contributeurs",
+    "de": "Mitwirkende",
+    "zh-Hans": "贡献者"
+  },
+  "Documentation": {
+    "pt-BR": "Documentação",
+    "es": "Documentación",
+    "ja": "ドキュメント",
+    "fr": "Documentation",
+    "de": "Dokumentation",
+    "zh-Hans": "文档"
+  },
+  "Related": {
+    "pt-BR": "Relacionados",
+    "es": "Relacionados",
+    "ja": "関連",
+    "fr": "Associés",
+    "de": "Verwandt",
+    "zh-Hans": "相关"
+  },
+  "For contributor attribution and activity, see the project’s source repository.": {
+    "pt-BR": "Para ver a autoria e a atividade dos colaboradores, consulte o repositório do projeto.",
+    "es": "Para consultar la autoría y actividad de los colaboradores, visita el repositorio del proyecto.",
+    "ja": "貢献者のクレジットや活動は、プロジェクトのソースリポジトリで確認できます。",
+    "fr": "Consultez le dépôt du projet pour connaître les contributions et l’activité de leurs auteurs.",
+    "de": "Beiträge und Aktivitäten der Mitwirkenden findest du im Quellcode-Repository des Projekts.",
+    "zh-Hans": "如需查看贡献者署名和活动，请访问项目的源代码仓库。"
+  },
+  "Project website": {
+    "pt-BR": "Site do projeto",
+    "es": "Sitio del proyecto",
+    "ja": "プロジェクトのサイト",
+    "fr": "Site du projet",
+    "de": "Projektwebsite",
+    "zh-Hans": "项目网站"
+  },
+  "Related projects": {
+    "pt-BR": "Projetos relacionados",
+    "es": "Proyectos relacionados",
+    "ja": "関連プロジェクト",
+    "fr": "Projets associés",
+    "de": "Verwandte Projekte",
+    "zh-Hans": "相关项目"
+  },
+  "Explore all projects": {
+    "pt-BR": "Explorar todos os projetos",
+    "es": "Explorar todos los proyectos",
+    "ja": "すべてのプロジェクトを探す",
+    "fr": "Explorer tous les projets",
+    "de": "Alle Projekte entdecken",
+    "zh-Hans": "探索全部项目"
+  },
+  "Loading search…": {
+    "pt-BR": "Carregando busca…",
+    "es": "Cargando búsqueda…",
+    "ja": "検索を読み込み中…",
+    "fr": "Chargement de la recherche…",
+    "de": "Suche wird geladen…",
+    "zh-Hans": "正在加载搜索…"
+  },
+  "Settings": {
+    "pt-BR": "Configurações",
+    "es": "Configuración",
+    "ja": "設定",
+    "fr": "Paramètres",
+    "de": "Einstellungen",
+    "zh-Hans": "设置"
+  },
+  "Your workspace": {
+    "pt-BR": "Seu espaço de trabalho",
+    "es": "Tu espacio de trabajo",
+    "ja": "ワークスペース",
+    "fr": "Votre espace de travail",
+    "de": "Dein Arbeitsbereich",
+    "zh-Hans": "你的工作区"
+  },
+  "Manage your local profile and appearance preferences.": {
+    "pt-BR": "Gerencie seu perfil local e suas preferências de aparência.",
+    "es": "Gestiona tu perfil local y tus preferencias de apariencia.",
+    "ja": "ローカルプロフィールと外観の設定を管理します。",
+    "fr": "Gérez votre profil local et vos préférences d’apparence.",
+    "de": "Verwalte dein lokales Profil und deine Darstellungseinstellungen.",
+    "zh-Hans": "管理本地个人资料和外观偏好。"
+  },
+  "Profile information": {
+    "pt-BR": "Informações do perfil",
+    "es": "Información del perfil",
+    "ja": "プロフィール情報",
+    "fr": "Informations du profil",
+    "de": "Profilinformationen",
+    "zh-Hans": "个人资料信息"
+  },
+  "Visible to you in this preview.": {
+    "pt-BR": "Visível apenas para você nesta prévia.",
+    "es": "Visible solo para ti en esta vista previa.",
+    "ja": "このプレビューでは自分だけに表示されます。",
+    "fr": "Visible uniquement pour vous dans cet aperçu.",
+    "de": "In dieser Vorschau nur für dich sichtbar.",
+    "zh-Hans": "在此预览中仅你可见。"
+  },
+  "Name": {
+    "pt-BR": "Nome",
+    "es": "Nombre",
+    "ja": "名前",
+    "fr": "Nom",
+    "de": "Name",
+    "zh-Hans": "姓名"
+  },
+  "Username": {
+    "pt-BR": "Nome de usuário",
+    "es": "Nombre de usuario",
+    "ja": "ユーザー名",
+    "fr": "Nom d’utilisateur",
+    "de": "Benutzername",
+    "zh-Hans": "用户名"
+  },
+  "Bio": {
+    "pt-BR": "Biografia",
+    "es": "Biografía",
+    "ja": "自己紹介",
+    "fr": "Biographie",
+    "de": "Kurzbiografie",
+    "zh-Hans": "简介"
+  },
+  "Tell us a little about your work.": {
+    "pt-BR": "Conte um pouco sobre seu trabalho.",
+    "es": "Cuéntanos un poco sobre tu trabajo.",
+    "ja": "活動について少し教えてください。",
+    "fr": "Parlez-nous un peu de votre travail.",
+    "de": "Erzähle uns etwas über deine Arbeit.",
+    "zh-Hans": "简单介绍一下你的工作。"
+  },
+  "Location": {
+    "pt-BR": "Localização",
+    "es": "Ubicación",
+    "ja": "所在地",
+    "fr": "Lieu",
+    "de": "Ort",
+    "zh-Hans": "所在地"
+  },
+  "City, country": {
+    "pt-BR": "Cidade, país",
+    "es": "Ciudad, país",
+    "ja": "都市、国",
+    "fr": "Ville, pays",
+    "de": "Stadt, Land",
+    "zh-Hans": "城市、国家"
+  },
+  "Website": {
+    "pt-BR": "Site",
+    "es": "Sitio web",
+    "ja": "ウェブサイト",
+    "fr": "Site web",
+    "de": "Website",
+    "zh-Hans": "网站"
+  },
+  "Save changes": {
+    "pt-BR": "Salvar alterações",
+    "es": "Guardar cambios",
+    "ja": "変更を保存",
+    "fr": "Enregistrer les modifications",
+    "de": "Änderungen speichern",
+    "zh-Hans": "保存更改"
+  },
+  "Appearance": {
+    "pt-BR": "Aparência",
+    "es": "Apariencia",
+    "ja": "外観",
+    "fr": "Apparence",
+    "de": "Darstellung",
+    "zh-Hans": "外观"
+  },
+  "Choose a theme for every page, or follow your system preference.": {
+    "pt-BR": "Escolha um tema para todas as páginas ou siga a preferência do sistema.",
+    "es": "Elige un tema para todas las páginas o usa la preferencia del sistema.",
+    "ja": "全ページのテーマを選ぶか、システム設定に従います。",
+    "fr": "Choisissez un thème pour toutes les pages ou suivez la préférence du système.",
+    "de": "Wähle ein Design für alle Seiten oder übernimm die Systemeinstellung.",
+    "zh-Hans": "为所有页面选择主题，或跟随系统偏好。"
+  },
+  "Preview data": {
+    "pt-BR": "Dados da prévia",
+    "es": "Datos de la vista previa",
+    "ja": "プレビューデータ",
+    "fr": "Données de l’aperçu",
+    "de": "Vorschaudaten",
+    "zh-Hans": "预览数据"
+  },
+  "Remove your saved local profile, application, replies, and discussion drafts from this device.": {
+    "pt-BR": "Remova deste dispositivo seu perfil local, sua inscrição, suas respostas e seus rascunhos de discussões.",
+    "es": "Elimina de este dispositivo tu perfil local, tu solicitud, tus respuestas y tus borradores de discusiones.",
+    "ja": "このデバイスに保存したプロフィール、応募、返信、ディスカッションの下書きを削除します。",
+    "fr": "Supprimez de cet appareil votre profil local, votre candidature, vos réponses et vos brouillons de discussion.",
+    "de": "Entferne dein lokales Profil, deine Bewerbung, Antworten und Diskussionsentwürfe von diesem Gerät.",
+    "zh-Hans": "从此设备删除已保存的本地个人资料、申请、回复和讨论草稿。"
+  },
+  "Clear local profile and drafts": {
+    "pt-BR": "Limpar perfil local e rascunhos",
+    "es": "Borrar perfil local y borradores",
+    "ja": "ローカルプロフィールと下書きを消去",
+    "fr": "Effacer le profil local et les brouillons",
+    "de": "Lokales Profil und Entwürfe löschen",
+    "zh-Hans": "清除本地资料和草稿"
+  },
+  "Bring your work": {
+    "pt-BR": "Faça seu trabalho",
+    "es": "Haz que tu trabajo",
+    "ja": "あなたの仕事を",
+    "fr": "Faites entrer votre travail",
+    "de": "Bring deine Arbeit",
+    "zh-Hans": "让你的成果"
+  },
+  "to the": {
+    "pt-BR": "fazer parte da",
+    "es": "forme parte de la",
+    "ja": "私たちの",
+    "fr": "dans notre",
+    "de": "in unsere",
+    "zh-Hans": "写入这段"
+  },
+  "story.": {
+    "pt-BR": "história.",
+    "es": "historia.",
+    "ja": "物語へ。",
+    "fr": "histoire.",
+    "de": "Geschichte ein.",
+    "zh-Hans": "故事。"
+  },
+  "Developer Magazine documents real contributions and the people who make them possible.": {
+    "pt-BR": "A Developer Magazine documenta contribuições reais e as pessoas que as tornam possíveis.",
+    "es": "Developer Magazine documenta contribuciones reales y a quienes las hacen posibles.",
+    "ja": "Developer Magazine は、実際の貢献とそれを支える人々を記録します。",
+    "fr": "Developer Magazine documente les contributions réelles et les personnes qui les rendent possibles.",
+    "de": "Developer Magazine dokumentiert echte Beiträge und die Menschen, die sie ermöglichen.",
+    "zh-Hans": "Developer Magazine 记录真实的贡献，以及让它们成为可能的人。"
+  },
+  "Frontend preview · Drafts stay on this device.": {
+    "pt-BR": "Prévia do frontend · Os rascunhos ficam neste dispositivo.",
+    "es": "Vista previa del frontend · Los borradores se guardan en este dispositivo.",
+    "ja": "フロントエンドのプレビュー · 下書きはこのデバイスに保存されます。",
+    "fr": "Aperçu de l’interface · Les brouillons restent sur cet appareil.",
+    "de": "Frontend-Vorschau · Entwürfe bleiben auf diesem Gerät.",
+    "zh-Hans": "前端预览 · 草稿保存在此设备上。"
+  },
+  "Join the community": {
+    "pt-BR": "Participar da comunidade",
+    "es": "Únete a la comunidad",
+    "ja": "コミュニティに参加",
+    "fr": "Rejoindre la communauté",
+    "de": "Der Community beitreten",
+    "zh-Hans": "加入社区"
+  },
+  "Document a project, article, or contribution others can inspect.": {
+    "pt-BR": "Registre um projeto, artigo ou contribuição que outras pessoas possam consultar.",
+    "es": "Documenta un proyecto, artículo o contribución que otros puedan consultar.",
+    "ja": "他の人が確認できるプロジェクト、記事、貢献を記録しましょう。",
+    "fr": "Documentez un projet, un article ou une contribution que d’autres pourront consulter.",
+    "de": "Dokumentiere ein Projekt, einen Artikel oder einen Beitrag, den andere nachvollziehen können.",
+    "zh-Hans": "记录一个可供他人查看的项目、文章或贡献。"
+  },
+  "Full name": {
+    "pt-BR": "Nome completo",
+    "es": "Nombre completo",
+    "ja": "氏名",
+    "fr": "Nom complet",
+    "de": "Vollständiger Name",
+    "zh-Hans": "全名"
+  },
+  "Role or specialty": {
+    "pt-BR": "Função ou especialidade",
+    "es": "Función o especialidad",
+    "ja": "役割または専門分野",
+    "fr": "Rôle ou spécialité",
+    "de": "Rolle oder Fachgebiet",
+    "zh-Hans": "角色或专长"
+  },
+  "e.g. Frontend developer": {
+    "pt-BR": "Ex.: Desenvolvedor frontend",
+    "es": "Ej.: Desarrollador frontend",
+    "ja": "例：フロントエンド開発者",
+    "fr": "Ex. : développement frontend",
+    "de": "Z. B. Frontend-Entwicklung",
+    "zh-Hans": "例如：前端开发者"
+  },
+  "Contribution": {
+    "pt-BR": "Contribuição",
+    "es": "Contribución",
+    "ja": "貢献",
+    "fr": "Contribution",
+    "de": "Beitrag",
+    "zh-Hans": "贡献"
+  },
+  "What did you build or contribute, and why did it matter?": {
+    "pt-BR": "O que você criou ou fez, e por que isso foi importante?",
+    "es": "¿Qué creaste o aportaste y por qué fue importante?",
+    "ja": "何をつくり、どのように貢献しましたか？ その意義は何ですか？",
+    "fr": "Qu’avez-vous créé ou apporté, et pourquoi était-ce important ?",
+    "de": "Was hast du entwickelt oder beigetragen, und warum war das wichtig?",
+    "zh-Hans": "你创造或贡献了什么？它为什么重要？"
+  },
+  "Supporting link": {
+    "pt-BR": "Link de comprovação",
+    "es": "Enlace de referencia",
+    "ja": "裏付けとなるリンク",
+    "fr": "Lien justificatif",
+    "de": "Nachweislink",
+    "zh-Hans": "佐证链接"
+  },
+  "Save contribution draft": {
+    "pt-BR": "Salvar rascunho da contribuição",
+    "es": "Guardar borrador de la contribución",
+    "ja": "貢献の下書きを保存",
+    "fr": "Enregistrer le brouillon de contribution",
+    "de": "Beitragsentwurf speichern",
+    "zh-Hans": "保存贡献草稿"
+  },
+  "Draft saved locally. Nothing was submitted.": {
+    "pt-BR": "Rascunho salvo neste dispositivo. Nada foi enviado.",
+    "es": "Borrador guardado en este dispositivo. No se ha enviado nada.",
+    "ja": "下書きをローカルに保存しました。送信は行われていません。",
+    "fr": "Brouillon enregistré sur cet appareil. Rien n’a été envoyé.",
+    "de": "Entwurf lokal gespeichert. Es wurde nichts gesendet.",
+    "zh-Hans": "草稿已保存到本地，未提交任何内容。"
+  },
+  "Already exploring? Open the preview workspace": {
+    "pt-BR": "Já está explorando? Abra o espaço de trabalho da prévia",
+    "es": "¿Ya estás explorando? Abre el espacio de la vista previa",
+    "ja": "すでにお試しですか？ プレビューのワークスペースを開く",
+    "fr": "Vous explorez déjà ? Ouvrez l’espace de travail de l’aperçu",
+    "de": "Schon dabei? Öffne den Vorschau-Arbeitsbereich",
+    "zh-Hans": "已经在探索？打开预览工作区"
+  },
+  "Welcome": {
+    "pt-BR": "Boas-vindas",
+    "es": "Te damos la",
+    "ja": "おかえり",
+    "fr": "Heureux de vous",
+    "de": "Willkommen",
+    "zh-Hans": "欢迎"
+  },
+  "back.": {
+    "pt-BR": "de volta.",
+    "es": "bienvenida.",
+    "ja": "なさい。",
+    "fr": "retrouver.",
+    "de": "zurück.",
+    "zh-Hans": "回来。"
+  },
+  "Pick up where you left off with your local profile, preferences, and saved drafts.": {
+    "pt-BR": "Continue de onde parou com seu perfil local, suas preferências e seus rascunhos salvos.",
+    "es": "Continúa donde lo dejaste con tu perfil local, preferencias y borradores guardados.",
+    "ja": "ローカルプロフィール、設定、保存した下書きから続けられます。",
+    "fr": "Reprenez là où vous en étiez avec votre profil local, vos préférences et vos brouillons.",
+    "de": "Mach mit deinem lokalen Profil, deinen Einstellungen und gespeicherten Entwürfen dort weiter, wo du aufgehört hast.",
+    "zh-Hans": "通过本地个人资料、偏好和已保存的草稿继续工作。"
+  },
+  "Sign in": {
+    "pt-BR": "Entrar",
+    "es": "Iniciar sesión",
+    "ja": "ログイン",
+    "fr": "Se connecter",
+    "de": "Anmelden",
+    "zh-Hans": "登录"
+  },
+  "Account sign-in isn’t connected in this frontend preview. You can still explore the workspace without providing credentials.": {
+    "pt-BR": "A autenticação ainda não está disponível nesta prévia. Você pode explorar o espaço de trabalho sem informar credenciais.",
+    "es": "El inicio de sesión aún no está conectado en esta vista previa. Puedes explorar el espacio de trabajo sin proporcionar credenciales.",
+    "ja": "このプレビューではアカウント認証は未接続です。認証情報を入力せずにワークスペースを試せます。",
+    "fr": "La connexion au compte n’est pas activée dans cet aperçu. Vous pouvez explorer l’espace de travail sans fournir d’identifiants.",
+    "de": "Die Kontoanmeldung ist in dieser Vorschau nicht angebunden. Du kannst den Arbeitsbereich ohne Zugangsdaten erkunden.",
+    "zh-Hans": "此前端预览未连接账号登录功能。你仍可无需提供凭据即可探索工作区。"
+  },
+  "Open preview workspace": {
+    "pt-BR": "Abrir espaço de trabalho da prévia",
+    "es": "Abrir espacio de trabajo de la vista previa",
+    "ja": "プレビューのワークスペースを開く",
+    "fr": "Ouvrir l’espace de travail de l’aperçu",
+    "de": "Vorschau-Arbeitsbereich öffnen",
+    "zh-Hans": "打开预览工作区"
+  },
+  "Create a contribution draft": {
+    "pt-BR": "Criar rascunho de contribuição",
+    "es": "Crear un borrador de contribución",
+    "ja": "貢献の下書きを作成",
+    "fr": "Créer un brouillon de contribution",
+    "de": "Beitragsentwurf erstellen",
+    "zh-Hans": "创建贡献草稿"
+  },
+  "Community": {
+    "pt-BR": "Comunidade",
+    "es": "Comunidad",
+    "ja": "コミュニティ",
+    "fr": "Communauté",
+    "de": "Community",
+    "zh-Hans": "社区"
+  },
+  "Connect / Community": {
+    "pt-BR": "Conectar / Comunidade",
+    "es": "Conectar / Comunidad",
+    "ja": "つながる / コミュニティ",
+    "fr": "Échanger / Communauté",
+    "de": "Vernetzen / Community",
+    "zh-Hans": "交流 / 社区"
+  },
+  "Share knowledge and make the work behind technology visible.": {
+    "pt-BR": "Compartilhe conhecimento e dê visibilidade ao trabalho por trás da tecnologia.",
+    "es": "Comparte conocimiento y da visibilidad al trabajo detrás de la tecnología.",
+    "ja": "知識を共有し、テクノロジーを支える仕事に光を当てましょう。",
+    "fr": "Partagez vos connaissances et rendez visible le travail derrière la technologie.",
+    "de": "Teile Wissen und mache die Arbeit hinter der Technologie sichtbar.",
+    "zh-Hans": "分享知识，让技术背后的工作被看见。"
+  },
+  "A global community": {
+    "pt-BR": "Uma comunidade global",
+    "es": "Una comunidad global",
+    "ja": "世界の",
+    "fr": "Une communauté mondiale",
+    "de": "Eine weltweite Community",
+    "zh-Hans": "汇聚全球"
+  },
+  "of": {
+    "pt-BR": "de",
+    "es": "de",
+    "ja": "ものづくり",
+    "fr": "de",
+    "de": "von",
+    "zh-Hans": "的"
+  },
+  "builders.": {
+    "pt-BR": "quem cria.",
+    "es": "creadores.",
+    "ja": "コミュニティ。",
+    "fr": "créateurs.",
+    "de": "Machern.",
+    "zh-Hans": "创造者社区。"
+  },
+  "Share ideas, ask better questions, and help document the projects that shape technology.": {
+    "pt-BR": "Compartilhe ideias, faça perguntas melhores e ajude a documentar os projetos que moldam a tecnologia.",
+    "es": "Comparte ideas, haz mejores preguntas y ayuda a documentar los proyectos que moldean la tecnología.",
+    "ja": "アイデアを共有し、より良い問いを立て、技術を形づくるプロジェクトを記録しましょう。",
+    "fr": "Partagez vos idées, posez de meilleures questions et aidez à documenter les projets qui façonnent la technologie.",
+    "de": "Teile Ideen, stelle bessere Fragen und hilf, die Projekte zu dokumentieren, die Technologie prägen.",
+    "zh-Hans": "分享想法，提出更好的问题，帮助记录塑造技术的项目。"
+  },
+  "People": {
+    "pt-BR": "Pessoas",
+    "es": "Personas",
+    "ja": "人物",
+    "fr": "Personnes",
+    "de": "Personen",
+    "zh-Hans": "人物"
+  },
+  "Projects": {
+    "pt-BR": "Projetos",
+    "es": "Proyectos",
+    "ja": "プロジェクト",
+    "fr": "Projets",
+    "de": "Projekte",
+    "zh-Hans": "项目"
+  },
+  "Articles": {
+    "pt-BR": "Artigos",
+    "es": "Artículos",
+    "ja": "記事",
+    "fr": "Articles",
+    "de": "Artikel",
+    "zh-Hans": "文章"
+  },
+  "Browse discussions": {
+    "pt-BR": "Ver discussões",
+    "es": "Ver discusiones",
+    "ja": "ディスカッションを見る",
+    "fr": "Parcourir les discussions",
+    "de": "Diskussionen ansehen",
+    "zh-Hans": "浏览讨论"
+  },
+  "Events preview": {
+    "pt-BR": "Prévia de eventos",
+    "es": "Vista previa de eventos",
+    "ja": "イベントのプレビュー",
+    "fr": "Aperçu des événements",
+    "de": "Veranstaltungsvorschau",
+    "zh-Hans": "活动预览"
+  },
+  "Featured contributors": {
+    "pt-BR": "Colaboradores em destaque",
+    "es": "Colaboradores destacados",
+    "ja": "注目の貢献者",
+    "fr": "Contributeurs à la une",
+    "de": "Ausgewählte Mitwirkende",
+    "zh-Hans": "精选贡献者"
+  },
+  "Discussion prompts": {
+    "pt-BR": "Temas para discussão",
+    "es": "Temas de discusión",
+    "ja": "ディスカッションの話題",
+    "fr": "Sujets de discussion",
+    "de": "Diskussionsanregungen",
+    "zh-Hans": "讨论话题"
+  },
+  "Draft a discussion": {
+    "pt-BR": "Criar rascunho de discussão",
+    "es": "Crear un borrador de discusión",
+    "ja": "ディスカッションの下書きを作成",
+    "fr": "Rédiger une discussion",
+    "de": "Diskussionsentwurf erstellen",
+    "zh-Hans": "创建讨论草稿"
+  },
+  "Your idea": {
+    "pt-BR": "Sua ideia",
+    "es": "Tu idea",
+    "ja": "あなたのアイデア",
+    "fr": "Votre idée",
+    "de": "Deine Idee",
+    "zh-Hans": "你的想法"
+  },
+  "What would you like to discuss?": {
+    "pt-BR": "Sobre o que você gostaria de conversar?",
+    "es": "¿De qué te gustaría hablar?",
+    "ja": "何について話し合いたいですか？",
+    "fr": "De quoi souhaitez-vous discuter ?",
+    "de": "Worüber möchtest du diskutieren?",
+    "zh-Hans": "你想讨论什么？"
+  },
+  "Save local draft": {
+    "pt-BR": "Salvar rascunho local",
+    "es": "Guardar borrador local",
+    "ja": "下書きをローカルに保存",
+    "fr": "Enregistrer le brouillon local",
+    "de": "Entwurf lokal speichern",
+    "zh-Hans": "保存本地草稿"
+  },
+  "Drafts stay in this browser.": {
+    "pt-BR": "Os rascunhos ficam neste navegador.",
+    "es": "Los borradores se guardan en este navegador.",
+    "ja": "下書きはこのブラウザーに保存されます。",
+    "fr": "Les brouillons restent dans ce navigateur.",
+    "de": "Entwürfe bleiben in diesem Browser.",
+    "zh-Hans": "草稿保存在此浏览器中。"
+  },
+  "Share": {
+    "pt-BR": "Compartilhar",
+    "es": "Compartir",
+    "ja": "共有",
+    "fr": "Partager",
+    "de": "Teilen",
+    "zh-Hans": "分享"
+  },
+  "Filters": {
+    "pt-BR": "Filtros",
+    "es": "Filtros",
+    "ja": "絞り込み",
+    "fr": "Filtres",
+    "de": "Filter",
+    "zh-Hans": "筛选"
+  },
+  "Messages": {
+    "pt-BR": "Mensagens",
+    "es": "Mensajes",
+    "ja": "メッセージ",
+    "fr": "Messages",
+    "de": "Nachrichten",
+    "zh-Hans": "消息"
+  },
+  "Messages & notifications": {
+    "pt-BR": "Mensagens e notificações",
+    "es": "Mensajes y notificaciones",
+    "ja": "メッセージと通知",
+    "fr": "Messages et notifications",
+    "de": "Nachrichten und Benachrichtigungen",
+    "zh-Hans": "消息与通知"
+  },
+  "A preview of conversations and project updates. Drafts are saved locally.": {
+    "pt-BR": "Uma prévia de conversas e atualizações dos projetos. Os rascunhos são salvos neste dispositivo.",
+    "es": "Una vista previa de conversaciones y novedades de los proyectos. Los borradores se guardan en este dispositivo.",
+    "ja": "会話とプロジェクト更新のプレビューです。下書きはローカルに保存されます。",
+    "fr": "Un aperçu des conversations et des mises à jour des projets. Les brouillons sont enregistrés localement.",
+    "de": "Eine Vorschau auf Unterhaltungen und Projektupdates. Entwürfe werden lokal gespeichert.",
+    "zh-Hans": "查看会话和项目动态的预览。草稿保存在本地。"
+  },
+  "Notifications": {
+    "pt-BR": "Notificações",
+    "es": "Notificaciones",
+    "ja": "通知",
+    "fr": "Notifications",
+    "de": "Benachrichtigungen",
+    "zh-Hans": "通知"
+  },
+  "Sample notification · Developer Magazine": {
+    "pt-BR": "Notificação de exemplo · Developer Magazine",
+    "es": "Notificación de ejemplo · Developer Magazine",
+    "ja": "通知の例 · Developer Magazine",
+    "fr": "Exemple de notification · Developer Magazine",
+    "de": "Beispielbenachrichtigung · Developer Magazine",
+    "zh-Hans": "示例通知 · Developer Magazine"
+  },
+  "No conversations here.": {
+    "pt-BR": "Nenhuma conversa aqui.",
+    "es": "No hay conversaciones aquí.",
+    "ja": "会話はありません。",
+    "fr": "Aucune conversation ici.",
+    "de": "Hier gibt es keine Unterhaltungen.",
+    "zh-Hans": "这里没有会话。"
+  },
+  "Sample conversation": {
+    "pt-BR": "Conversa de exemplo",
+    "es": "Conversación de ejemplo",
+    "ja": "会話の例",
+    "fr": "Exemple de conversation",
+    "de": "Beispielunterhaltung",
+    "zh-Hans": "示例会话"
+  },
+  "Toggle star": {
+    "pt-BR": "Marcar ou desmarcar como favorito",
+    "es": "Marcar o desmarcar como favorito",
+    "ja": "スターを付ける・外す",
+    "fr": "Ajouter ou retirer des favoris",
+    "de": "Favoritenmarkierung umschalten",
+    "zh-Hans": "添加或取消星标"
+  },
+  "Saved draft": {
+    "pt-BR": "Rascunho salvo",
+    "es": "Borrador guardado",
+    "ja": "保存済みの下書き",
+    "fr": "Brouillon enregistré",
+    "de": "Gespeicherter Entwurf",
+    "zh-Hans": "已保存的草稿"
+  },
+  "Reply draft": {
+    "pt-BR": "Rascunho de resposta",
+    "es": "Borrador de respuesta",
+    "ja": "返信の下書き",
+    "fr": "Brouillon de réponse",
+    "de": "Antwortentwurf",
+    "zh-Hans": "回复草稿"
+  },
+  "Write a local reply draft…": {
+    "pt-BR": "Escreva um rascunho de resposta local…",
+    "es": "Escribe un borrador de respuesta local…",
+    "ja": "返信の下書きを作成…",
+    "fr": "Rédigez un brouillon de réponse local…",
+    "de": "Schreibe einen lokalen Antwortentwurf…",
+    "zh-Hans": "撰写本地回复草稿…"
+  },
+  "Save reply draft": {
+    "pt-BR": "Salvar rascunho de resposta",
+    "es": "Guardar borrador de respuesta",
+    "ja": "返信の下書きを保存",
+    "fr": "Enregistrer le brouillon de réponse",
+    "de": "Antwortentwurf speichern",
+    "zh-Hans": "保存回复草稿"
+  },
+  "Explore / Search": {
+    "pt-BR": "Explorar / Busca",
+    "es": "Explorar / Búsqueda",
+    "ja": "探す / 検索",
+    "fr": "Explorer / Recherche",
+    "de": "Entdecken / Suche",
+    "zh-Hans": "探索 / 搜索"
+  },
+  "Find what matters": {
+    "pt-BR": "Encontre o que importa",
+    "es": "Encuentra lo que importa",
+    "ja": "大切なものを見つける",
+    "fr": "Trouvez ce qui compte",
+    "de": "Finde, was wichtig ist",
+    "zh-Hans": "找到重要的内容"
+  },
+  "Search people, projects, and articles in one place.": {
+    "pt-BR": "Busque pessoas, projetos e artigos em um só lugar.",
+    "es": "Busca personas, proyectos y artículos en un solo lugar.",
+    "ja": "人物、プロジェクト、記事をまとめて検索できます。",
+    "fr": "Recherchez des personnes, des projets et des articles au même endroit.",
+    "de": "Suche an einem Ort nach Personen, Projekten und Artikeln.",
+    "zh-Hans": "在同一处搜索人物、项目和文章。"
+  },
+  "Search all content": {
+    "pt-BR": "Buscar em todo o conteúdo",
+    "es": "Buscar en todo el contenido",
+    "ja": "すべてのコンテンツを検索",
+    "fr": "Rechercher dans tout le contenu",
+    "de": "Alle Inhalte durchsuchen",
+    "zh-Hans": "搜索全部内容"
+  },
+  "Try machine learning": {
+    "pt-BR": "Experimente aprendizado de máquina",
+    "es": "Prueba con aprendizaje automático",
+    "ja": "例：機械学習",
+    "fr": "Essayez apprentissage automatique",
+    "de": "Probiere maschinelles Lernen",
+    "zh-Hans": "试试“机器学习”"
+  },
+  "Search": {
+    "pt-BR": "Buscar",
+    "es": "Buscar",
+    "ja": "検索",
+    "fr": "Rechercher",
+    "de": "Suchen",
+    "zh-Hans": "搜索"
+  },
+  "Theme": {
+    "pt-BR": "Tema",
+    "es": "Tema",
+    "ja": "テーマ",
+    "fr": "Thème",
+    "de": "Design",
+    "zh-Hans": "主题"
+  },
+  "Appearance theme": {
+    "pt-BR": "Tema de aparência",
+    "es": "Tema de apariencia",
+    "ja": "表示テーマ",
+    "fr": "Thème d’apparence",
+    "de": "Darstellungsdesign",
+    "zh-Hans": "外观主题"
+  },
+  "System": {
+    "pt-BR": "Sistema",
+    "es": "Sistema",
+    "ja": "システム",
+    "fr": "Système",
+    "de": "System",
+    "zh-Hans": "跟随系统"
+  },
+  "Light": {
+    "pt-BR": "Claro",
+    "es": "Claro",
+    "ja": "ライト",
+    "fr": "Clair",
+    "de": "Hell",
+    "zh-Hans": "浅色"
+  },
+  "Dark": {
+    "pt-BR": "Escuro",
+    "es": "Oscuro",
+    "ja": "ダーク",
+    "fr": "Sombre",
+    "de": "Dunkel",
+    "zh-Hans": "深色"
+  },
+  "Developer Magazine home": {
+    "pt-BR": "Página inicial da Developer Magazine",
+    "es": "Inicio de Developer Magazine",
+    "ja": "Developer Magazine ホーム",
+    "fr": "Accueil de Developer Magazine",
+    "de": "Startseite von Developer Magazine",
+    "zh-Hans": "Developer Magazine 首页"
+  },
+  "Main navigation": {
+    "pt-BR": "Navegação principal",
+    "es": "Navegación principal",
+    "ja": "メインナビゲーション",
+    "fr": "Navigation principale",
+    "de": "Hauptnavigation",
+    "zh-Hans": "主导航"
+  },
+  "Team": {
+    "pt-BR": "Equipe",
+    "es": "Equipo",
+    "ja": "チーム",
+    "fr": "Équipe",
+    "de": "Team",
+    "zh-Hans": "团队"
+  },
+  "Join": {
+    "pt-BR": "Participar",
+    "es": "Únete",
+    "ja": "参加",
+    "fr": "Rejoindre",
+    "de": "Mitmachen",
+    "zh-Hans": "加入"
+  },
+  "Search site": {
+    "pt-BR": "Buscar no site",
+    "es": "Buscar en el sitio",
+    "ja": "サイト内検索",
+    "fr": "Rechercher sur le site",
+    "de": "Website durchsuchen",
+    "zh-Hans": "站内搜索"
+  },
+  "Search…": {
+    "pt-BR": "Buscar…",
+    "es": "Buscar…",
+    "ja": "検索…",
+    "fr": "Rechercher…",
+    "de": "Suchen…",
+    "zh-Hans": "搜索…"
+  },
+  "Messages and notifications": {
+    "pt-BR": "Mensagens e notificações",
+    "es": "Mensajes y notificaciones",
+    "ja": "メッセージと通知",
+    "fr": "Messages et notifications",
+    "de": "Nachrichten und Benachrichtigungen",
+    "zh-Hans": "消息与通知"
+  },
+  "People · Projects · Knowledge": {
+    "pt-BR": "Pessoas · Projetos · Conhecimento",
+    "es": "Personas · Proyectos · Conocimiento",
+    "ja": "人物 · プロジェクト · 知識",
+    "fr": "Personnes · Projets · Connaissances",
+    "de": "Personen · Projekte · Wissen",
+    "zh-Hans": "人物 · 项目 · 知识"
+  },
+  "Footer": {
+    "pt-BR": "Rodapé",
+    "es": "Pie de página",
+    "ja": "フッター",
+    "fr": "Pied de page",
+    "de": "Fußzeile",
+    "zh-Hans": "页脚"
+  },
+  "Community / Team": {
+    "pt-BR": "Comunidade / Equipe",
+    "es": "Comunidad / Equipo",
+    "ja": "コミュニティ / チーム",
+    "fr": "Communauté / Équipe",
+    "de": "Community / Team",
+    "zh-Hans": "社区 / 团队"
+  },
+  "Team members": {
+    "pt-BR": "Membros da equipe",
+    "es": "Miembros del equipo",
+    "ja": "チームメンバー",
+    "fr": "Membres de l’équipe",
+    "de": "Teammitglieder",
+    "zh-Hans": "团队成员"
+  },
+  "Meet the people shaping Developer Magazine and explore where you can contribute.": {
+    "pt-BR": "Conheça quem está criando a Developer Magazine e veja onde você pode contribuir.",
+    "es": "Conoce a quienes crean Developer Magazine y descubre dónde puedes contribuir.",
+    "ja": "Developer Magazine を形づくる人々と、あなたが貢献できる分野を見つけましょう。",
+    "fr": "Rencontrez les personnes qui façonnent Developer Magazine et découvrez comment contribuer.",
+    "de": "Lerne die Menschen hinter Developer Magazine kennen und finde heraus, wo du mitwirken kannst.",
+    "zh-Hans": "认识建设 Developer Magazine 的人，了解你可以贡献的方向。"
+  },
+  "Search team roles": {
+    "pt-BR": "Buscar funções na equipe",
+    "es": "Buscar funciones del equipo",
+    "ja": "チームの役割を検索",
+    "fr": "Rechercher des rôles dans l’équipe",
+    "de": "Teamrollen suchen",
+    "zh-Hans": "搜索团队角色"
+  },
+  "Search team roles and skills…": {
+    "pt-BR": "Buscar funções e habilidades da equipe…",
+    "es": "Buscar funciones y habilidades del equipo…",
+    "ja": "チームの役割やスキルを検索…",
+    "fr": "Rechercher des rôles et des compétences…",
+    "de": "Teamrollen und Fähigkeiten suchen…",
+    "zh-Hans": "搜索团队角色和技能…"
+  },
+  "Founding team · Collaboration": {
+    "pt-BR": "Equipe fundadora · Colaboração",
+    "es": "Equipo fundador · Colaboración",
+    "ja": "創設チーム · 協働",
+    "fr": "Équipe fondatrice · Collaboration",
+    "de": "Gründungsteam · Zusammenarbeit",
+    "zh-Hans": "创始团队 · 协作"
+  },
+  "Collaboration role": {
+    "pt-BR": "Função de colaboração",
+    "es": "Función de colaboración",
+    "ja": "協力者の役割",
+    "fr": "Rôle de collaboration",
+    "de": "Rolle für die Mitarbeit",
+    "zh-Hans": "协作角色"
+  },
+  "Remote · Worldwide": {
+    "pt-BR": "Remoto · Mundial",
+    "es": "Remoto · Mundial",
+    "ja": "リモート · 世界各地",
+    "fr": "À distance · Monde entier",
+    "de": "Remote · Weltweit",
+    "zh-Hans": "远程 · 全球"
+  },
+  "Express interest": {
+    "pt-BR": "Demonstrar interesse",
+    "es": "Expresar interés",
+    "ja": "関心を伝える",
+    "fr": "Manifester son intérêt",
+    "de": "Interesse bekunden",
+    "zh-Hans": "表达意向"
+  },
+  "min read": {
+    "pt-BR": "min de leitura",
+    "es": "min de lectura",
+    "ja": "分で読める",
+    "fr": "min de lecture",
+    "de": "Min. Lesezeit",
+    "zh-Hans": "分钟阅读"
+  },
+  "No results found": {
+    "pt-BR": "Nenhum resultado encontrado",
+    "es": "No se encontraron resultados",
+    "ja": "結果が見つかりません",
+    "fr": "Aucun résultat",
+    "de": "Keine Ergebnisse gefunden",
+    "zh-Hans": "未找到结果"
+  },
+  "Source repository": {
+    "pt-BR": "Repositório do código-fonte",
+    "es": "Repositorio de código fuente",
+    "ja": "ソースリポジトリ",
+    "fr": "Dépôt du code source",
+    "de": "Quellcode-Repository",
+    "zh-Hans": "源代码仓库"
+  },
+  "Open menu": {
+    "pt-BR": "Abrir menu",
+    "es": "Abrir menú",
+    "ja": "メニューを開く",
+    "fr": "Ouvrir le menu",
+    "de": "Menü öffnen",
+    "zh-Hans": "打开菜单"
+  },
+  "Close menu": {
+    "pt-BR": "Fechar menu",
+    "es": "Cerrar menú",
+    "ja": "メニューを閉じる",
+    "fr": "Fermer le menu",
+    "de": "Menü schließen",
+    "zh-Hans": "关闭菜单"
+  },
+  "Knowledge": {
+    "pt-BR": "Conhecimento",
+    "es": "Conocimiento",
+    "ja": "知識",
+    "fr": "Connaissances",
+    "de": "Wissen",
+    "zh-Hans": "知识"
+  },
+  "Open": {
+    "pt-BR": "Aberto",
+    "es": "Abierto",
+    "ja": "公開",
+    "fr": "Ouvert",
+    "de": "Offen",
+    "zh-Hans": "开放"
+  },
+  "Discover": {
+    "pt-BR": "Descobrir",
+    "es": "Descubrir",
+    "ja": "見つける",
+    "fr": "Découvrir",
+    "de": "Entdecken",
+    "zh-Hans": "发现"
+  },
+  "Explore / People": {
+    "pt-BR": "Explorar / Pessoas",
+    "es": "Explorar / Personas",
+    "ja": "探す / 人物",
+    "fr": "Explorer / Personnes",
+    "de": "Entdecken / Personen",
+    "zh-Hans": "探索 / 人物"
+  },
+  "Explore / Projects": {
+    "pt-BR": "Explorar / Projetos",
+    "es": "Explorar / Proyectos",
+    "ja": "探す / プロジェクト",
+    "fr": "Explorer / Projets",
+    "de": "Entdecken / Projekte",
+    "zh-Hans": "探索 / 项目"
+  },
+  "Explore / Knowledge": {
+    "pt-BR": "Explorar / Conhecimento",
+    "es": "Explorar / Conocimiento",
+    "ja": "探す / 知識",
+    "fr": "Explorer / Connaissances",
+    "de": "Entdecken / Wissen",
+    "zh-Hans": "探索 / 知识"
+  },
+  "Browse people": {
+    "pt-BR": "Ver pessoas",
+    "es": "Ver personas",
+    "ja": "人物を見る",
+    "fr": "Parcourir les personnes",
+    "de": "Personen ansehen",
+    "zh-Hans": "浏览人物"
+  },
+  "Browse projects": {
+    "pt-BR": "Ver projetos",
+    "es": "Ver proyectos",
+    "ja": "プロジェクトを見る",
+    "fr": "Parcourir les projets",
+    "de": "Projekte ansehen",
+    "zh-Hans": "浏览项目"
+  },
+  "Browse knowledge": {
+    "pt-BR": "Ver conhecimento",
+    "es": "Ver conocimientos",
+    "ja": "知識を見る",
+    "fr": "Parcourir les connaissances",
+    "de": "Wissen ansehen",
+    "zh-Hans": "浏览知识"
+  },
+  "{n} result": {
+    "pt-BR": "{n} resultado",
+    "es": "{n} resultado",
+    "ja": "{n} 件",
+    "fr": "{n} résultat",
+    "de": "{n} Ergebnis",
+    "zh-Hans": "{n} 条结果"
+  },
+  "{n} results": {
+    "pt-BR": "{n} resultados",
+    "es": "{n} resultados",
+    "ja": "{n} 件",
+    "fr": "{n} résultats",
+    "de": "{n} Ergebnisse",
+    "zh-Hans": "{n} 条结果"
+  },
+  "{n} roles": {
+    "pt-BR": "{n} funções",
+    "es": "{n} funciones",
+    "ja": "{n} 件の役割",
+    "fr": "{n} rôles",
+    "de": "{n} Rollen",
+    "zh-Hans": "{n} 个角色"
+  },
+  "{n} contributions": {
+    "pt-BR": "{n} contribuições",
+    "es": "{n} contribuciones",
+    "ja": "{n} 件の貢献",
+    "fr": "{n} contributions",
+    "de": "{n} Beiträge",
+    "zh-Hans": "{n} 项贡献"
+  },
+  "{n} min read": {
+    "pt-BR": "{n} min de leitura",
+    "es": "{n} min de lectura",
+    "ja": "{n} 分で読める",
+    "fr": "{n} min de lecture",
+    "de": "{n} Min. Lesezeit",
+    "zh-Hans": "{n} 分钟阅读"
+  },
+  "Results for “{query}”": {
+    "pt-BR": "Resultados para “{query}”",
+    "es": "Resultados para «{query}»",
+    "ja": "「{query}」の検索結果",
+    "fr": "Résultats pour « {query} »",
+    "de": "Ergebnisse für „{query}“",
+    "zh-Hans": "“{query}”的搜索结果"
+  },
+  "All": {
+    "pt-BR": "Todos",
+    "es": "Todos",
+    "ja": "すべて",
+    "fr": "Tout",
+    "de": "Alle",
+    "zh-Hans": "全部"
+  },
+  "Profile": {
+    "pt-BR": "Perfil",
+    "es": "Perfil",
+    "ja": "プロフィール",
+    "fr": "Profil",
+    "de": "Profil",
+    "zh-Hans": "个人资料"
+  },
+  "Discussions": {
+    "pt-BR": "Discussões",
+    "es": "Discusiones",
+    "ja": "ディスカッション",
+    "fr": "Discussions",
+    "de": "Diskussionen",
+    "zh-Hans": "讨论"
+  },
+  "Events": {
+    "pt-BR": "Eventos",
+    "es": "Eventos",
+    "ja": "イベント",
+    "fr": "Événements",
+    "de": "Veranstaltungen",
+    "zh-Hans": "活动"
+  },
+  "Follow": {
+    "pt-BR": "Seguir",
+    "es": "Seguir",
+    "ja": "フォロー",
+    "fr": "Suivre",
+    "de": "Folgen",
+    "zh-Hans": "关注"
+  },
+  "Following": {
+    "pt-BR": "Seguindo",
+    "es": "Siguiendo",
+    "ja": "フォロー中",
+    "fr": "Abonné",
+    "de": "Gefolgt",
+    "zh-Hans": "已关注"
+  },
+  "Starred": {
+    "pt-BR": "Favoritos",
+    "es": "Favoritos",
+    "ja": "スター付き",
+    "fr": "Favoris",
+    "de": "Favoriten",
+    "zh-Hans": "星标"
+  },
+  "Star project": {
+    "pt-BR": "Favoritar projeto",
+    "es": "Marcar proyecto como favorito",
+    "ja": "プロジェクトにスターを付ける",
+    "fr": "Ajouter le projet aux favoris",
+    "de": "Projekt merken",
+    "zh-Hans": "为项目加星标"
+  },
+  "Link copied": {
+    "pt-BR": "Link copiado",
+    "es": "Enlace copiado",
+    "ja": "リンクをコピーしました",
+    "fr": "Lien copié",
+    "de": "Link kopiert",
+    "zh-Hans": "链接已复制"
+  },
+  "Copy the link from your address bar.": {
+    "pt-BR": "Copie o link da barra de endereços.",
+    "es": "Copia el enlace de la barra de direcciones.",
+    "ja": "アドレスバーからリンクをコピーしてください。",
+    "fr": "Copiez le lien dans la barre d’adresse.",
+    "de": "Kopiere den Link aus der Adressleiste.",
+    "zh-Hans": "请从地址栏复制链接。"
+  },
+  "Profile saved in this browser.": {
+    "pt-BR": "Perfil salvo neste navegador.",
+    "es": "Perfil guardado en este navegador.",
+    "ja": "このブラウザーにプロフィールを保存しました。",
+    "fr": "Profil enregistré dans ce navigateur.",
+    "de": "Profil in diesem Browser gespeichert.",
+    "zh-Hans": "个人资料已保存在此浏览器中。"
+  },
+  "Local drafts and profile cleared.": {
+    "pt-BR": "Rascunhos e perfil local apagados.",
+    "es": "Borradores y perfil local eliminados.",
+    "ja": "ローカルの下書きとプロフィールを消去しました。",
+    "fr": "Brouillons et profil local effacés.",
+    "de": "Lokale Entwürfe und Profil gelöscht.",
+    "zh-Hans": "已清除本地草稿和个人资料。"
+  },
+  "Use an HTTPS link to your work.": {
+    "pt-BR": "Use um link HTTPS para seu trabalho.",
+    "es": "Usa un enlace HTTPS a tu trabajo.",
+    "ja": "活動へのリンクには HTTPS を使用してください。",
+    "fr": "Utilisez un lien HTTPS vers votre travail.",
+    "de": "Verwende einen HTTPS-Link zu deiner Arbeit.",
+    "zh-Hans": "请使用指向你的成果的 HTTPS 链接。"
+  },
+  "This browser could not save your draft.": {
+    "pt-BR": "Este navegador não conseguiu salvar seu rascunho.",
+    "es": "Este navegador no pudo guardar tu borrador.",
+    "ja": "このブラウザーでは下書きを保存できませんでした。",
+    "fr": "Ce navigateur n’a pas pu enregistrer votre brouillon.",
+    "de": "Dieser Browser konnte deinen Entwurf nicht speichern.",
+    "zh-Hans": "此浏览器无法保存你的草稿。"
+  },
+  "Inbox": {
+    "pt-BR": "Caixa de entrada",
+    "es": "Bandeja de entrada",
+    "ja": "受信トレイ",
+    "fr": "Boîte de réception",
+    "de": "Posteingang",
+    "zh-Hans": "收件箱"
+  },
+  "Archived": {
+    "pt-BR": "Arquivadas",
+    "es": "Archivadas",
+    "ja": "アーカイブ済み",
+    "fr": "Archivées",
+    "de": "Archiviert",
+    "zh-Hans": "已归档"
+  },
+  "All caught up": {
+    "pt-BR": "Tudo em dia",
+    "es": "Todo al día",
+    "ja": "未読はありません",
+    "fr": "Vous êtes à jour",
+    "de": "Alles gelesen",
+    "zh-Hans": "全部已读"
+  },
+  "Mark all as read": {
+    "pt-BR": "Marcar todas como lidas",
+    "es": "Marcar todas como leídas",
+    "ja": "すべて既読にする",
+    "fr": "Tout marquer comme lu",
+    "de": "Alle als gelesen markieren",
+    "zh-Hans": "全部标为已读"
+  },
+  "Welcome to the workspace": {
+    "pt-BR": "Boas-vindas ao espaço de trabalho",
+    "es": "Te damos la bienvenida al espacio de trabajo",
+    "ja": "ワークスペースへようこそ",
+    "fr": "Bienvenue dans votre espace de travail",
+    "de": "Willkommen im Arbeitsbereich",
+    "zh-Hans": "欢迎来到工作区"
+  },
+  "New · Welcome to the workspace": {
+    "pt-BR": "Nova · Boas-vindas ao espaço de trabalho",
+    "es": "Nueva · Te damos la bienvenida al espacio de trabajo",
+    "ja": "新着 · ワークスペースへようこそ",
+    "fr": "Nouveau · Bienvenue dans votre espace de travail",
+    "de": "Neu · Willkommen im Arbeitsbereich",
+    "zh-Hans": "新通知 · 欢迎来到工作区"
+  },
+  "Restore conversation": {
+    "pt-BR": "Restaurar conversa",
+    "es": "Restaurar conversación",
+    "ja": "会話を復元",
+    "fr": "Restaurer la conversation",
+    "de": "Unterhaltung wiederherstellen",
+    "zh-Hans": "恢复会话"
+  },
+  "Archive conversation": {
+    "pt-BR": "Arquivar conversa",
+    "es": "Archivar conversación",
+    "ja": "会話をアーカイブ",
+    "fr": "Archiver la conversation",
+    "de": "Unterhaltung archivieren",
+    "zh-Hans": "归档会话"
+  },
+  "Public domain": {
+    "pt-BR": "Domínio público",
+    "es": "Dominio público",
+    "ja": "パブリックドメイン",
+    "fr": "Domaine public",
+    "de": "Gemeinfrei",
+    "zh-Hans": "公有领域"
+  },
+  "Unknown author": {
+    "pt-BR": "Autor desconhecido",
+    "es": "Autor desconocido",
+    "ja": "作者不明",
+    "fr": "Auteur inconnu",
+    "de": "Urheber unbekannt",
+    "zh-Hans": "作者不详"
+  },
+  "Possibly Arthur Reginald Chaffin": {
+    "pt-BR": "Possivelmente Arthur Reginald Chaffin",
+    "es": "Posiblemente Arthur Reginald Chaffin",
+    "ja": "アーサー・レジナルド・チャフィンの可能性",
+    "fr": "Peut-être Arthur Reginald Chaffin",
+    "de": "Möglicherweise Arthur Reginald Chaffin",
+    "zh-Hans": "可能为阿瑟·雷金纳德·查芬"
+  },
+  "Adam Cuerden (restoration)": {
+    "pt-BR": "Adam Cuerden (restauração)",
+    "es": "Adam Cuerden (restauración)",
+    "ja": "アダム・カーデン（修復）",
+    "fr": "Adam Cuerden (restauration)",
+    "de": "Adam Cuerden (Restaurierung)",
+    "zh-Hans": "亚当·柯登（修复）"
+  },
+  "Krd (photo), Von Sprat (crop)": {
+    "pt-BR": "Krd (foto), Von Sprat (recorte)",
+    "es": "Krd (foto), Von Sprat (recorte)",
+    "ja": "Krd（撮影）、Von Sprat（トリミング）",
+    "fr": "Krd (photo), Von Sprat (recadrage)",
+    "de": "Krd (Foto), Von Sprat (Zuschnitt)",
+    "zh-Hans": "Krd（摄影）、Von Sprat（裁剪）"
+  },
+  "// A living history of technology.": {
+    "pt-BR": "// Uma história viva da tecnologia.",
+    "es": "// Una historia viva de la tecnología.",
+    "ja": "// テクノロジーの生きた歴史。",
+    "fr": "// Une histoire vivante de la technologie.",
+    "de": "// Eine lebendige Geschichte der Technologie.",
+    "zh-Hans": "// 一部鲜活的技术史。"
+  },
+  "Developer Magazine — People. Projects. Knowledge.": {
+    "pt-BR": "Developer Magazine — Pessoas. Projetos. Conhecimento.",
+    "es": "Developer Magazine — Personas. Proyectos. Conocimiento.",
+    "ja": "Developer Magazine — 人物・プロジェクト・知識。",
+    "fr": "Developer Magazine — Personnes. Projets. Connaissances.",
+    "de": "Developer Magazine — Personen. Projekte. Wissen.",
+    "zh-Hans": "Developer Magazine — 人物、项目与知识。"
+  },
+  "Discover the people, projects and ideas behind technology.": {
+    "pt-BR": "Descubra as pessoas, os projetos e as ideias por trás da tecnologia.",
+    "es": "Descubre a las personas, los proyectos y las ideas detrás de la tecnología.",
+    "ja": "テクノロジーを支える人々、プロジェクト、アイデアを見つけましょう。",
+    "fr": "Découvrez les personnes, les projets et les idées derrière la technologie.",
+    "de": "Entdecke die Menschen, Projekte und Ideen hinter der Technologie.",
+    "zh-Hans": "探索技术背后的人物、项目和创意。"
+  },
+  "Linux Kernel": {
+    "pt-BR": "Kernel Linux",
+    "es": "Núcleo de Linux",
+    "ja": "Linux カーネル",
+    "fr": "Noyau Linux",
+    "de": "Linux-Kernel",
+    "zh-Hans": "Linux 内核"
+  },
+  "Operating Systems": {
+    "pt-BR": "Sistemas operacionais",
+    "es": "Sistemas operativos",
+    "ja": "オペレーティングシステム",
+    "fr": "Systèmes d’exploitation",
+    "de": "Betriebssysteme",
+    "zh-Hans": "操作系统"
+  },
+  "The kernel at the heart of a global open source operating system ecosystem.": {
+    "pt-BR": "O kernel no centro de um ecossistema global de sistemas operacionais de código aberto.",
+    "es": "El núcleo de un ecosistema mundial de sistemas operativos de código abierto.",
+    "ja": "世界的なオープンソース OS エコシステムの中核をなすカーネル。",
+    "fr": "Le noyau au cœur d’un écosystème mondial de systèmes d’exploitation libres.",
+    "de": "Der Kernel im Zentrum eines weltweiten Ökosystems quelloffener Betriebssysteme.",
+    "zh-Hans": "全球开源操作系统生态的核心内核。"
+  },
+  "The Linux kernel manages hardware resources and provides the interfaces used by applications. Its development brings together maintainers and contributors from across the world.": {
+    "pt-BR": "O kernel Linux gerencia recursos de hardware e fornece as interfaces usadas pelas aplicações. Seu desenvolvimento reúne mantenedores e colaboradores de todo o mundo.",
+    "es": "El núcleo de Linux administra los recursos de hardware y proporciona las interfaces de las aplicaciones. Su desarrollo reúne a mantenedores y colaboradores de todo el mundo.",
+    "ja": "Linux カーネルはハードウェア資源を管理し、アプリケーションが使うインターフェースを提供します。世界各地のメンテナーと貢献者が開発に参加しています。",
+    "fr": "Le noyau Linux gère les ressources matérielles et fournit les interfaces utilisées par les applications. Son développement réunit des mainteneurs et des contributeurs du monde entier.",
+    "de": "Der Linux-Kernel verwaltet Hardware-Ressourcen und stellt Schnittstellen für Anwendungen bereit. An seiner Entwicklung arbeiten Maintainer und Mitwirkende aus aller Welt.",
+    "zh-Hans": "Linux 内核管理硬件资源，并提供应用程序使用的接口。来自世界各地的维护者和贡献者共同参与开发。"
+  },
+  "Kernel": {
+    "pt-BR": "Kernel",
+    "es": "Núcleo",
+    "ja": "カーネル",
+    "fr": "Noyau",
+    "de": "Kernel",
+    "zh-Hans": "内核"
+  },
+  "Open Source": {
+    "pt-BR": "Código aberto",
+    "es": "Código abierto",
+    "ja": "オープンソース",
+    "fr": "Code source ouvert",
+    "de": "Quelloffene Software",
+    "zh-Hans": "开源"
+  },
+  "Web Development": {
+    "pt-BR": "Desenvolvimento web",
+    "es": "Desarrollo web",
+    "ja": "ウェブ開発",
+    "fr": "Développement web",
+    "de": "Webentwicklung",
+    "zh-Hans": "网页开发"
+  },
+  "A library for building user interfaces from reusable components.": {
+    "pt-BR": "Uma biblioteca para criar interfaces de usuário com componentes reutilizáveis.",
+    "es": "Una biblioteca para crear interfaces de usuario con componentes reutilizables.",
+    "ja": "再利用可能なコンポーネントでユーザーインターフェースを構築するライブラリ。",
+    "fr": "Une bibliothèque pour créer des interfaces utilisateur à partir de composants réutilisables.",
+    "de": "Eine Bibliothek zum Erstellen von Benutzeroberflächen aus wiederverwendbaren Komponenten.",
+    "zh-Hans": "使用可复用组件构建用户界面的库。"
+  },
+  "React lets developers compose interfaces from reusable components and describe how they should render as data changes. The project is maintained by Meta and an open source community.": {
+    "pt-BR": "O React permite compor interfaces com componentes reutilizáveis e descrever como devem ser exibidas quando os dados mudam. O projeto é mantido pela Meta e por uma comunidade de código aberto.",
+    "es": "React permite componer interfaces con componentes reutilizables y describir cómo deben mostrarse al cambiar los datos. Meta y una comunidad de código abierto mantienen el proyecto.",
+    "ja": "React では再利用可能なコンポーネントで画面を組み立て、データが変わったときの表示を記述できます。Meta とオープンソースコミュニティが維持しています。",
+    "fr": "React permet de composer des interfaces avec des composants réutilisables et de décrire leur rendu lorsque les données changent. Meta et une communauté open source maintiennent le projet.",
+    "de": "Mit React lassen sich Oberflächen aus wiederverwendbaren Komponenten zusammensetzen und ihre Darstellung bei Datenänderungen beschreiben. Meta und eine Open-Source-Community pflegen das Projekt.",
+    "zh-Hans": "React 让开发者用可复用组件构建界面，并描述数据变化时界面如何呈现。项目由 Meta 和开源社区共同维护。"
+  },
+  "UI": {
+    "pt-BR": "Interface",
+    "es": "Interfaz",
+    "ja": "UI",
+    "fr": "Interface",
+    "de": "Oberfläche",
+    "zh-Hans": "用户界面"
+  },
+  "Components": {
+    "pt-BR": "Componentes",
+    "es": "Componentes",
+    "ja": "コンポーネント",
+    "fr": "Composants",
+    "de": "Komponenten",
+    "zh-Hans": "组件"
+  },
+  "Databases": {
+    "pt-BR": "Bancos de dados",
+    "es": "Bases de datos",
+    "ja": "データベース",
+    "fr": "Bases de données",
+    "de": "Datenbanken",
+    "zh-Hans": "数据库"
+  },
+  "An open source relational database with a rich SQL feature set.": {
+    "pt-BR": "Um banco de dados relacional de código aberto com amplos recursos SQL.",
+    "es": "Una base de datos relacional de código abierto con amplias funciones SQL.",
+    "ja": "豊富な SQL 機能を備えたオープンソースのリレーショナルデータベース。",
+    "fr": "Une base de données relationnelle open source dotée de nombreuses fonctionnalités SQL.",
+    "de": "Eine quelloffene relationale Datenbank mit umfangreichen SQL-Funktionen.",
+    "zh-Hans": "功能丰富的开源 SQL 关系型数据库。"
+  },
+  "PostgreSQL is a relational database that supports transactions, constraints, indexes and extensions. Developer Magazine’s architecture uses it as the source of truth for application data.": {
+    "pt-BR": "O PostgreSQL é um banco de dados relacional com suporte a transações, restrições, índices e extensões. A arquitetura da Developer Magazine o utiliza como fonte oficial dos dados da aplicação.",
+    "es": "PostgreSQL es una base de datos relacional que admite transacciones, restricciones, índices y extensiones. La arquitectura de Developer Magazine la usa como fuente de referencia de los datos de la aplicación.",
+    "ja": "PostgreSQL はトランザクション、制約、インデックス、拡張をサポートするリレーショナルデータベースです。Developer Magazine の設計では、アプリケーションデータの正本として利用します。",
+    "fr": "PostgreSQL est une base de données relationnelle qui prend en charge les transactions, contraintes, index et extensions. L’architecture de Developer Magazine l’utilise comme source de référence pour les données de l’application.",
+    "de": "PostgreSQL ist eine relationale Datenbank mit Transaktionen, Constraints, Indizes und Erweiterungen. Die Architektur von Developer Magazine nutzt sie als maßgebliche Quelle für Anwendungsdaten.",
+    "zh-Hans": "PostgreSQL 是支持事务、约束、索引和扩展的关系型数据库。Developer Magazine 的架构将它用作应用数据的权威来源。"
+  },
+  "Database": {
+    "pt-BR": "Banco de dados",
+    "es": "Base de datos",
+    "ja": "データベース",
+    "fr": "Base de données",
+    "de": "Datenbank",
+    "zh-Hans": "数据库"
+  },
+  "Developer Tools": {
+    "pt-BR": "Ferramentas de desenvolvimento",
+    "es": "Herramientas de desarrollo",
+    "ja": "開発ツール",
+    "fr": "Outils de développement",
+    "de": "Entwicklungswerkzeuge",
+    "zh-Hans": "开发工具"
+  },
+  "A JavaScript runtime for building servers, tools and applications.": {
+    "pt-BR": "Um ambiente de execução JavaScript para criar servidores, ferramentas e aplicações.",
+    "es": "Un entorno de ejecución de JavaScript para crear servidores, herramientas y aplicaciones.",
+    "ja": "サーバー、ツール、アプリケーションを作るための JavaScript ランタイム。",
+    "fr": "Un environnement d’exécution JavaScript pour créer des serveurs, des outils et des applications.",
+    "de": "Eine JavaScript-Laufzeit zum Erstellen von Servern, Werkzeugen und Anwendungen.",
+    "zh-Hans": "用于构建服务器、工具和应用的 JavaScript 运行时。"
+  },
+  "Node.js runs JavaScript outside the browser. Its asynchronous I/O model helps applications handle concurrent work such as network requests and file operations.": {
+    "pt-BR": "O Node.js executa JavaScript fora do navegador. Seu modelo assíncrono de entrada e saída ajuda a lidar com tarefas concorrentes, como requisições de rede e operações com arquivos.",
+    "es": "Node.js ejecuta JavaScript fuera del navegador. Su modelo asíncrono de entrada y salida facilita tareas concurrentes, como peticiones de red y operaciones con archivos.",
+    "ja": "Node.js はブラウザーの外で JavaScript を実行します。非同期 I/O により、ネットワークリクエストやファイル操作を並行して処理できます。",
+    "fr": "Node.js exécute JavaScript hors du navigateur. Son modèle d’entrées-sorties asynchrones aide à traiter des tâches concurrentes, comme les requêtes réseau et les opérations sur les fichiers.",
+    "de": "Node.js führt JavaScript außerhalb des Browsers aus. Das asynchrone E/A-Modell hilft bei gleichzeitigen Aufgaben wie Netzwerkanfragen und Dateioperationen.",
+    "zh-Hans": "Node.js 在浏览器之外运行 JavaScript。其异步 I/O 模型有助于并发处理网络请求和文件操作等任务。"
+  },
+  "Runtime": {
+    "pt-BR": "Ambiente de execução",
+    "es": "Entorno de ejecución",
+    "ja": "ランタイム",
+    "fr": "Environnement d’exécution",
+    "de": "Laufzeit",
+    "zh-Hans": "运行时"
+  },
+  "Backend": {
+    "pt-BR": "Backend",
+    "es": "Backend",
+    "ja": "バックエンド",
+    "fr": "Backend",
+    "de": "Backend",
+    "zh-Hans": "后端"
+  },
+  "Tools to package, distribute and run software in containers.": {
+    "pt-BR": "Ferramentas para empacotar, distribuir e executar software em contêineres.",
+    "es": "Herramientas para empaquetar, distribuir y ejecutar software en contenedores.",
+    "ja": "ソフトウェアをコンテナにまとめ、配布し、実行するためのツール。",
+    "fr": "Des outils pour empaqueter, distribuer et exécuter des logiciels dans des conteneurs.",
+    "de": "Werkzeuge zum Paketieren, Verteilen und Ausführen von Software in Containern.",
+    "zh-Hans": "用于打包、分发和在容器中运行软件的工具。"
+  },
+  "Docker packages an application and its dependencies in an image. Containers run from that image in consistent environments, making builds easier to reproduce and share.": {
+    "pt-BR": "O Docker empacota uma aplicação e suas dependências em uma imagem. Os contêineres executam essa imagem em ambientes consistentes, facilitando a reprodução e o compartilhamento de builds.",
+    "es": "Docker empaqueta una aplicación y sus dependencias en una imagen. Los contenedores la ejecutan en entornos consistentes, lo que facilita reproducir y compartir compilaciones.",
+    "ja": "Docker はアプリケーションと依存関係をイメージにまとめます。コンテナはそのイメージを一貫した環境で実行し、ビルドの再現と共有を容易にします。",
+    "fr": "Docker regroupe une application et ses dépendances dans une image. Les conteneurs l’exécutent dans des environnements cohérents, ce qui facilite la reproduction et le partage des builds.",
+    "de": "Docker verpackt Anwendungen und ihre Abhängigkeiten in ein Image. Container führen es in konsistenten Umgebungen aus, sodass sich Builds leichter reproduzieren und teilen lassen.",
+    "zh-Hans": "Docker 将应用及其依赖打包为镜像。容器在一致的环境中运行该镜像，使构建更容易复现和共享。"
+  },
+  "Containers": {
+    "pt-BR": "Contêineres",
+    "es": "Contenedores",
+    "ja": "コンテナ",
+    "fr": "Conteneurs",
+    "de": "Container",
+    "zh-Hans": "容器"
+  },
+  "Infrastructure": {
+    "pt-BR": "Infraestrutura",
+    "es": "Infraestructura",
+    "ja": "インフラ",
+    "fr": "Infrastructure",
+    "de": "Infrastruktur",
+    "zh-Hans": "基础设施"
+  },
+  "Machine Learning": {
+    "pt-BR": "Aprendizado de máquina",
+    "es": "Aprendizaje automático",
+    "ja": "機械学習",
+    "fr": "Apprentissage automatique",
+    "de": "Maschinelles Lernen",
+    "zh-Hans": "机器学习"
+  },
+  "An open source ecosystem for building and deploying machine learning models.": {
+    "pt-BR": "Um ecossistema de código aberto para criar e implantar modelos de aprendizado de máquina.",
+    "es": "Un ecosistema de código abierto para crear e implementar modelos de aprendizaje automático.",
+    "ja": "機械学習モデルの構築とデプロイを支えるオープンソースのエコシステム。",
+    "fr": "Un écosystème open source pour créer et déployer des modèles d’apprentissage automatique.",
+    "de": "Ein Open-Source-Ökosystem zum Erstellen und Bereitstellen von Modellen für maschinelles Lernen.",
+    "zh-Hans": "用于构建和部署机器学习模型的开源生态系统。"
+  },
+  "TensorFlow provides tools for expressing numerical computation and building machine learning workflows, from experimentation to deployment.": {
+    "pt-BR": "O TensorFlow oferece ferramentas para expressar cálculos numéricos e criar fluxos de aprendizado de máquina, da experimentação à implantação.",
+    "es": "TensorFlow ofrece herramientas para expresar cálculos numéricos y crear flujos de aprendizaje automático, desde la experimentación hasta la implementación.",
+    "ja": "TensorFlow は数値計算の記述や、実験からデプロイまでの機械学習ワークフローの構築を支援します。",
+    "fr": "TensorFlow fournit des outils pour exprimer des calculs numériques et créer des flux d’apprentissage automatique, de l’expérimentation au déploiement.",
+    "de": "TensorFlow bietet Werkzeuge für numerische Berechnungen und Arbeitsabläufe des maschinellen Lernens, vom Experiment bis zur Bereitstellung.",
+    "zh-Hans": "TensorFlow 提供描述数值计算和构建机器学习工作流的工具，覆盖从实验到部署的全过程。"
+  },
+  "A distributed version control system for tracking changes and collaborating.": {
+    "pt-BR": "Um sistema distribuído de controle de versão para acompanhar mudanças e colaborar.",
+    "es": "Un sistema distribuido de control de versiones para seguir cambios y colaborar.",
+    "ja": "変更履歴の管理と共同作業に使う分散型バージョン管理システム。",
+    "fr": "Un système distribué de gestion de versions pour suivre les changements et collaborer.",
+    "de": "Eine verteilte Versionsverwaltung zum Verfolgen von Änderungen und zur Zusammenarbeit.",
+    "zh-Hans": "用于跟踪更改和协作的分布式版本控制系统。"
+  },
+  "Git records versions of a project as commits. Each clone can hold its own history, so contributors can create branches and work independently before exchanging changes.": {
+    "pt-BR": "O Git registra versões de um projeto como commits. Cada clone pode manter seu próprio histórico, permitindo criar branches e trabalhar de forma independente antes de compartilhar mudanças.",
+    "es": "Git registra las versiones de un proyecto como commits. Cada clon puede guardar su propio historial, lo que permite crear ramas y trabajar de forma independiente antes de intercambiar cambios.",
+    "ja": "Git はプロジェクトの版をコミットとして記録します。各クローンが履歴を保持できるため、変更を交換する前にブランチを作って独立して作業できます。",
+    "fr": "Git enregistre les versions d’un projet sous forme de commits. Chaque clone peut conserver son historique, ce qui permet de créer des branches et de travailler indépendamment avant d’échanger les modifications.",
+    "de": "Git erfasst Projektversionen als Commits. Jeder Klon kann seinen eigenen Verlauf speichern, sodass Mitwirkende Zweige anlegen und unabhängig arbeiten können, bevor sie Änderungen austauschen.",
+    "zh-Hans": "Git 以提交的形式记录项目版本。每个克隆都能保留自己的历史，贡献者可以创建分支并独立工作，再交换更改。"
+  },
+  "Version Control": {
+    "pt-BR": "Controle de versão",
+    "es": "Control de versiones",
+    "ja": "バージョン管理",
+    "fr": "Gestion de versions",
+    "de": "Versionsverwaltung",
+    "zh-Hans": "版本控制"
+  },
+  "Doom Engine": {
+    "pt-BR": "Motor de Doom",
+    "es": "Motor de Doom",
+    "ja": "Doom エンジン",
+    "fr": "Moteur de Doom",
+    "de": "Doom-Engine",
+    "zh-Hans": "Doom 引擎"
+  },
+  "Game Development": {
+    "pt-BR": "Desenvolvimento de jogos",
+    "es": "Desarrollo de videojuegos",
+    "ja": "ゲーム開発",
+    "fr": "Développement de jeux",
+    "de": "Spieleentwicklung",
+    "zh-Hans": "游戏开发"
+  },
+  "The engine behind id Software’s influential first-person game Doom.": {
+    "pt-BR": "O motor por trás do influente jogo em primeira pessoa Doom, da id Software.",
+    "es": "El motor del influyente juego en primera persona Doom, de id Software.",
+    "ja": "id Software の影響力ある一人称ゲーム Doom を支えるエンジン。",
+    "fr": "Le moteur du jeu influent à la première personne Doom, créé par id Software.",
+    "de": "Die Engine hinter dem einflussreichen Ego-Spiel Doom von id Software.",
+    "zh-Hans": "id Software 颇具影响力的第一人称游戏 Doom 背后的引擎。"
+  },
+  "The source release documents the architecture and rendering techniques behind Doom. It is a useful starting point for studying early real-time game rendering.": {
+    "pt-BR": "O código publicado documenta a arquitetura e as técnicas de renderização de Doom. É um bom ponto de partida para estudar os primeiros jogos com renderização em tempo real.",
+    "es": "El código publicado documenta la arquitectura y las técnicas de renderizado de Doom. Es un buen punto de partida para estudiar los primeros juegos con renderizado en tiempo real.",
+    "ja": "公開されたソースコードには Doom の構造と描画技術が記録されています。初期のリアルタイムゲーム描画を学ぶ出発点になります。",
+    "fr": "Le code publié documente l’architecture et les techniques de rendu de Doom. C’est un bon point de départ pour étudier les débuts du rendu de jeux en temps réel.",
+    "de": "Der veröffentlichte Quellcode dokumentiert die Architektur und Rendering-Techniken von Doom. Er ist ein guter Ausgangspunkt für die Untersuchung frühen Echtzeit-Renderings in Spielen.",
+    "zh-Hans": "公开的源代码记录了 Doom 的架构和渲染技术，是研究早期游戏实时渲染的良好起点。"
+  },
+  "Game Engines": {
+    "pt-BR": "Motores de jogos",
+    "es": "Motores de videojuegos",
+    "ja": "ゲームエンジン",
+    "fr": "Moteurs de jeux",
+    "de": "Spiel-Engines",
+    "zh-Hans": "游戏引擎"
+  },
+  "Rendering": {
+    "pt-BR": "Renderização",
+    "es": "Renderizado",
+    "ja": "レンダリング",
+    "fr": "Rendu",
+    "de": "Rendering",
+    "zh-Hans": "渲染"
+  },
+  "How the web became an application platform": {
+    "pt-BR": "Como a web se tornou uma plataforma de aplicações",
+    "es": "Cómo la web se convirtió en una plataforma de aplicaciones",
+    "ja": "ウェブはいかにアプリケーション基盤になったか",
+    "fr": "Comment le web est devenu une plateforme d’applications",
+    "de": "Wie das Web zur Anwendungsplattform wurde",
+    "zh-Hans": "网页如何成为应用平台"
+  },
+  "From linked documents to component systems, explore what changed and why it matters.": {
+    "pt-BR": "De documentos conectados a sistemas de componentes, veja o que mudou e por que isso importa.",
+    "es": "De los documentos enlazados a los sistemas de componentes: qué cambió y por qué importa.",
+    "ja": "リンクされた文書からコンポーネントシステムへ。何が変わり、なぜ重要なのかを見ていきます。",
+    "fr": "Des documents liés aux systèmes de composants, découvrez ce qui a changé et pourquoi cela compte.",
+    "de": "Von verlinkten Dokumenten zu Komponentensystemen: Was sich geändert hat und warum es wichtig ist.",
+    "zh-Hans": "从相互链接的文档到组件系统，了解发生了什么变化，以及这些变化为何重要。"
+  },
+  "The web began as a way to publish and link documents. HTML gave documents structure, URLs made them addressable, and browsers made them readable across operating systems. Those properties still matter when we build interactive applications.": {
+    "pt-BR": "A web surgiu para publicar e interligar documentos. O HTML deu estrutura a eles, as URLs permitiram endereçá-los e os navegadores os tornaram legíveis em diferentes sistemas operacionais. Essas características continuam importantes em aplicações interativas.",
+    "es": "La web nació para publicar y enlazar documentos. HTML les dio estructura, las URL les dieron una dirección y los navegadores permitieron leerlos en distintos sistemas operativos. Estas propiedades siguen siendo importantes para las aplicaciones interactivas.",
+    "ja": "ウェブは文書を公開し、リンクする仕組みとして始まりました。HTML が構造を与え、URL で参照でき、ブラウザーで OS を問わず読めるようになりました。これらの特性は対話型アプリケーションでも重要です。",
+    "fr": "Le web est né pour publier et relier des documents. HTML leur a donné une structure, les URL une adresse, et les navigateurs les ont rendus lisibles sur différents systèmes d’exploitation. Ces propriétés restent essentielles aux applications interactives.",
+    "de": "Das Web entstand zum Veröffentlichen und Verlinken von Dokumenten. HTML gab ihnen Struktur, URLs machten sie adressierbar und Browser machten sie auf verschiedenen Betriebssystemen lesbar. Diese Eigenschaften sind auch für interaktive Anwendungen wichtig.",
+    "zh-Hans": "网页最初用于发布和链接文档。HTML 提供结构，URL 提供地址，浏览器让不同操作系统都能阅读文档。这些特性对于交互式应用仍然重要。"
+  },
+  "As interfaces grew more complex, teams moved toward reusable components. A component can bring markup, state and behavior together, but it works best when it has a clear responsibility and an accessible interface.": {
+    "pt-BR": "Com interfaces mais complexas, as equipes passaram a usar componentes reutilizáveis. Um componente pode reunir marcação, estado e comportamento, mas funciona melhor quando tem uma responsabilidade clara e uma interface acessível.",
+    "es": "Al complicarse las interfaces, los equipos adoptaron componentes reutilizables. Un componente puede combinar marcado, estado y comportamiento, pero funciona mejor con una responsabilidad clara y una interfaz accesible.",
+    "ja": "画面が複雑になるにつれ、再利用できるコンポーネントが使われるようになりました。マークアップ、状態、動作をまとめられますが、明確な責務とアクセシブルなインターフェースがあるとより効果的です。",
+    "fr": "Avec la complexité croissante des interfaces, les équipes ont adopté les composants réutilisables. Un composant peut réunir balisage, état et comportement, mais il fonctionne mieux avec une responsabilité claire et une interface accessible.",
+    "de": "Mit komplexeren Oberflächen setzten Teams auf wiederverwendbare Komponenten. Sie können Markup, Zustand und Verhalten bündeln, funktionieren aber am besten mit klarer Verantwortung und einer zugänglichen Schnittstelle.",
+    "zh-Hans": "界面变得复杂后，团队开始使用可复用组件。组件可以结合标记、状态和行为，但职责清晰、界面无障碍时效果最佳。"
+  },
+  "A practical approach is to start with a document that can be read and navigated, then add interaction where it helps. Treat performance, keyboard support and clear URLs as features.": {
+    "pt-BR": "Comece com um documento legível e navegável, depois adicione interações onde forem úteis. Trate desempenho, suporte ao teclado e URLs claras como funcionalidades.",
+    "es": "Empieza con un documento legible y navegable y añade interacción donde sea útil. Trata el rendimiento, el uso del teclado y las URL claras como funcionalidades.",
+    "ja": "まず読めて移動しやすい文書を作り、必要なところに操作を加えましょう。性能、キーボード操作、分かりやすい URL も機能の一部です。",
+    "fr": "Commencez par un document lisible et navigable, puis ajoutez des interactions là où elles sont utiles. Traitez les performances, la navigation au clavier et les URL claires comme des fonctionnalités.",
+    "de": "Beginne mit einem lesbaren, navigierbaren Dokument und ergänze Interaktion dort, wo sie hilft. Betrachte Leistung, Tastaturbedienung und klare URLs als Funktionen.",
+    "zh-Hans": "先创建可阅读、易导航的文档，再在有用的地方增加交互。将性能、键盘支持和清晰的 URL 视为功能。"
+  },
+  "Understanding distributed systems": {
+    "pt-BR": "Entendendo sistemas distribuídos",
+    "es": "Comprender los sistemas distribuidos",
+    "ja": "分散システムを理解する",
+    "fr": "Comprendre les systèmes distribués",
+    "de": "Verteilte Systeme verstehen",
+    "zh-Hans": "理解分布式系统"
+  },
+  "Architecture": {
+    "pt-BR": "Arquitetura",
+    "es": "Arquitectura",
+    "ja": "アーキテクチャ",
+    "fr": "Architecture",
+    "de": "Architektur",
+    "zh-Hans": "架构"
+  },
+  "What changes when a single process becomes several machines?": {
+    "pt-BR": "O que muda quando um único processo dá lugar a várias máquinas?",
+    "es": "¿Qué cambia cuando un solo proceso se reparte entre varias máquinas?",
+    "ja": "単一プロセスから複数のマシンに移行すると、何が変わるのでしょうか？",
+    "fr": "Qu’est-ce qui change lorsqu’un processus est réparti entre plusieurs machines ?",
+    "de": "Was ändert sich, wenn aus einem einzelnen Prozess mehrere Maschinen werden?",
+    "zh-Hans": "单个进程扩展到多台机器后，会发生什么变化？"
+  },
+  "A distributed system coordinates independent processes over a network. Network calls can time out even when the recipient has already handled them, so a retry may repeat a side effect.": {
+    "pt-BR": "Um sistema distribuído coordena processos independentes pela rede. Uma chamada pode expirar mesmo depois de ser processada pelo destinatário. Uma nova tentativa pode, portanto, repetir um efeito colateral.",
+    "es": "Un sistema distribuido coordina procesos independientes por la red. Una llamada puede agotar su tiempo de espera aun después de ser procesada, de modo que un reintento puede repetir un efecto secundario.",
+    "ja": "分散システムはネットワーク越しに独立したプロセスを調整します。相手が処理済みでも通信はタイムアウトすることがあり、再試行で副作用が重複する可能性があります。",
+    "fr": "Un système distribué coordonne des processus indépendants sur un réseau. Un appel peut expirer alors que le destinataire l’a déjà traité ; une nouvelle tentative peut donc répéter un effet de bord.",
+    "de": "Ein verteiltes System koordiniert unabhängige Prozesse über ein Netzwerk. Ein Aufruf kann trotz Verarbeitung beim Empfänger auslaufen. Eine Wiederholung kann daher einen Nebeneffekt erneut auslösen.",
+    "zh-Hans": "分布式系统通过网络协调独立进程。即使接收方已处理请求，网络调用也可能超时，因此重试可能重复产生副作用。"
+  },
+  "Start by deciding which operations must be safe to retry. For a write endpoint, consider storing an idempotency key alongside the result so another request can return the same outcome.": {
+    "pt-BR": "Decida quais operações precisam poder ser repetidas com segurança. Em um endpoint de escrita, considere salvar uma chave de idempotência junto do resultado para que outra requisição retorne o mesmo resultado.",
+    "es": "Decide qué operaciones deben poder repetirse con seguridad. Para un endpoint de escritura, considera guardar una clave de idempotencia junto al resultado para devolverlo en otra solicitud.",
+    "ja": "安全に再試行すべき操作を決めましょう。書き込みエンドポイントでは、結果と一緒に冪等性キーを保存すれば、同じ結果を返せます。",
+    "fr": "Déterminez quelles opérations doivent pouvoir être relancées sans risque. Pour un point d’accès en écriture, envisagez de stocker une clé d’idempotence avec le résultat pour le renvoyer lors d’une autre requête.",
+    "de": "Lege fest, welche Vorgänge sicher wiederholbar sein müssen. Speichere bei einem Schreibendpunkt gegebenenfalls einen Idempotenzschlüssel mit dem Ergebnis, um es bei einer weiteren Anfrage erneut zurückzugeben.",
+    "zh-Hans": "先确定哪些操作必须能够安全重试。对于写入端点，可以将幂等键与结果一同保存，以便另一个请求返回相同结果。"
+  },
+  "Test with delayed responses, failed requests and unavailable dependencies. Observing how a system fails is as useful as knowing how it behaves when everything works.": {
+    "pt-BR": "Teste com respostas atrasadas, requisições com falha e dependências indisponíveis. Observar como o sistema falha é tão útil quanto saber como ele funciona em condições normais.",
+    "es": "Prueba respuestas tardías, solicitudes fallidas y dependencias no disponibles. Observar cómo falla un sistema es tan útil como saber cómo funciona en condiciones normales.",
+    "ja": "応答の遅延、リクエストの失敗、依存先の停止をテストしましょう。正常時の動作と同じくらい、障害時の振る舞いを知ることが役立ちます。",
+    "fr": "Testez les réponses retardées, les requêtes en échec et les dépendances indisponibles. Observer les défaillances est aussi utile que connaître le fonctionnement normal.",
+    "de": "Teste verzögerte Antworten, fehlgeschlagene Anfragen und nicht verfügbare Abhängigkeiten. Das Fehlerverhalten zu kennen ist genauso nützlich wie das Verhalten im Normalbetrieb.",
+    "zh-Hans": "测试响应延迟、请求失败和依赖不可用的情况。观察系统如何出错，与了解系统正常运行时的表现同样有用。"
+  },
+  "Machine learning fundamentals": {
+    "pt-BR": "Fundamentos do aprendizado de máquina",
+    "es": "Fundamentos del aprendizaje automático",
+    "ja": "機械学習の基礎",
+    "fr": "Fondamentaux de l’apprentissage automatique",
+    "de": "Grundlagen des maschinellen Lernens",
+    "zh-Hans": "机器学习基础"
+  },
+  "A practical introduction to training data, evaluation and model errors.": {
+    "pt-BR": "Uma introdução prática a dados de treinamento, avaliação e erros de modelos.",
+    "es": "Una introducción práctica a los datos de entrenamiento, la evaluación y los errores de los modelos.",
+    "ja": "訓練データ、評価、モデルの誤りへの実践的な入門。",
+    "fr": "Une introduction pratique aux données d’entraînement, à l’évaluation et aux erreurs des modèles.",
+    "de": "Eine praktische Einführung in Trainingsdaten, Auswertung und Modellfehler.",
+    "zh-Hans": "训练数据、评估和模型错误的实用入门。"
+  },
+  "Machine learning models estimate patterns from examples. A model can perform well on the examples it has seen and still fail on unfamiliar data, which makes evaluation a separate job from training.": {
+    "pt-BR": "Modelos de aprendizado de máquina estimam padrões a partir de exemplos. Um modelo pode ir bem nos exemplos que já viu e falhar em dados novos. Por isso, a avaliação é uma etapa separada do treinamento.",
+    "es": "Los modelos de aprendizaje automático estiman patrones a partir de ejemplos. Un modelo puede rendir bien con ejemplos conocidos y fallar con datos nuevos. Por eso, evaluar y entrenar son tareas distintas.",
+    "ja": "機械学習モデルは例からパターンを推定します。見たことのある例ではうまくいっても、未知のデータでは失敗することがあるため、評価は訓練と分けます。",
+    "fr": "Les modèles estiment des régularités à partir d’exemples. Un modèle peut réussir sur des exemples connus et échouer sur de nouvelles données : l’évaluation est donc distincte de l’entraînement.",
+    "de": "Modelle schätzen Muster anhand von Beispielen. Ein Modell kann bei bekannten Beispielen gut abschneiden und bei neuen Daten scheitern. Deshalb sind Auswertung und Training getrennte Aufgaben.",
+    "zh-Hans": "机器学习模型从示例中估计规律。模型在已见示例上表现良好，仍可能在陌生数据上失败，因此评估应独立于训练。"
+  },
+  "Keep evaluation data separate before feature selection and tuning. Pick metrics that reflect the costs of the kinds of mistakes your application can make.": {
+    "pt-BR": "Separe os dados de avaliação antes de selecionar características e ajustar parâmetros. Escolha métricas que reflitam o custo dos erros que a aplicação pode cometer.",
+    "es": "Separa los datos de evaluación antes de seleccionar características y ajustar parámetros. Elige métricas que reflejen el coste de los errores que puede cometer la aplicación.",
+    "ja": "特徴量の選択や調整の前に評価データを分けます。アプリケーションが起こしうる誤りのコストを反映する指標を選びましょう。",
+    "fr": "Isolez les données d’évaluation avant de sélectionner les variables et de régler le modèle. Choisissez des métriques qui reflètent le coût des erreurs possibles de l’application.",
+    "de": "Trenne die Auswertungsdaten vor Merkmalsauswahl und Feinabstimmung. Wähle Kennzahlen, die die Kosten möglicher Anwendungsfehler widerspiegeln.",
+    "zh-Hans": "在特征选择和调参前隔离评估数据。选择能够反映应用不同类型错误代价的指标。"
+  },
+  "Use a simple baseline and record the data assumptions behind the result. A model is useful only in the context in which you can evaluate its behavior.": {
+    "pt-BR": "Use uma referência simples para comparação e registre as premissas sobre os dados por trás do resultado. Um modelo só é útil no contexto em que seu comportamento pode ser avaliado.",
+    "es": "Usa una referencia sencilla y registra los supuestos sobre los datos que sustentan el resultado. Un modelo solo es útil en un contexto en el que puedes evaluar su comportamiento.",
+    "ja": "単純なベースラインを用意し、結果の前提となるデータの仮定を記録しましょう。モデルは、その振る舞いを評価できる文脈でのみ役立ちます。",
+    "fr": "Utilisez une référence simple et consignez les hypothèses sur les données qui sous-tendent le résultat. Un modèle n’est utile que dans un contexte où son comportement peut être évalué.",
+    "de": "Nutze einen einfachen Vergleichsmaßstab und dokumentiere die Datenannahmen hinter dem Ergebnis. Ein Modell ist nur dort nützlich, wo sein Verhalten bewertet werden kann.",
+    "zh-Hans": "使用简单的基线，并记录结果依赖的数据假设。模型只有在其行为可以评估的场景中才有用。"
+  },
+  "A practical guide to Docker": {
+    "pt-BR": "Um guia prático para Docker",
+    "es": "Una guía práctica de Docker",
+    "ja": "Docker 実践ガイド",
+    "fr": "Un guide pratique de Docker",
+    "de": "Ein Praxisleitfaden für Docker",
+    "zh-Hans": "Docker 实用指南"
+  },
+  "Build a repeatable local environment using images and containers.": {
+    "pt-BR": "Crie um ambiente local reproduzível com imagens e contêineres.",
+    "es": "Crea un entorno local reproducible con imágenes y contenedores.",
+    "ja": "イメージとコンテナを使って再現可能なローカル環境を構築します。",
+    "fr": "Créez un environnement local reproductible avec des images et des conteneurs.",
+    "de": "Erstelle mit Images und Containern eine reproduzierbare lokale Umgebung.",
+    "zh-Hans": "使用镜像和容器构建可复现的本地环境。"
+  },
+  "An image is a packaged filesystem and configuration. A container is a running instance of an image, with a writable layer and runtime settings of its own.": {
+    "pt-BR": "Uma imagem reúne um sistema de arquivos e sua configuração. Um contêiner é uma instância em execução de uma imagem, com sua própria camada gravável e configurações de execução.",
+    "es": "Una imagen empaqueta un sistema de archivos y su configuración. Un contenedor es una instancia en ejecución de una imagen, con su propia capa de escritura y ajustes de ejecución.",
+    "ja": "イメージはファイルシステムと設定をまとめたものです。コンテナはそのイメージの実行インスタンスで、独自の書き込み可能な層と実行設定を持ちます。",
+    "fr": "Une image regroupe un système de fichiers et sa configuration. Un conteneur est une instance d’image en cours d’exécution, avec sa propre couche modifiable et ses réglages d’exécution.",
+    "de": "Ein Image bündelt ein Dateisystem und dessen Konfiguration. Ein Container ist eine laufende Instanz eines Images mit eigener beschreibbarer Schicht und Laufzeiteinstellungen.",
+    "zh-Hans": "镜像打包了文件系统和配置。容器是镜像的运行实例，有自己的可写层和运行设置。"
+  },
+  "Pin the base image version, keep the build context small and copy dependency manifests before application source so builds can reuse layers.": {
+    "pt-BR": "Fixe a versão da imagem base, mantenha o contexto de build pequeno e copie os manifestos de dependências antes do código da aplicação para permitir a reutilização de camadas.",
+    "es": "Fija la versión de la imagen base, limita el contexto de compilación y copia los manifiestos de dependencias antes que el código para reutilizar capas.",
+    "ja": "ベースイメージのバージョンを固定し、ビルドコンテキストを小さく保ちます。アプリのソースより先に依存関係マニフェストをコピーすると、レイヤーを再利用できます。",
+    "fr": "Fixez la version de l’image de base, limitez le contexte de build et copiez les manifestes de dépendances avant le code pour pouvoir réutiliser les couches.",
+    "de": "Fixiere die Version des Basis-Images, halte den Build-Kontext klein und kopiere Abhängigkeitsmanifeste vor dem Quellcode, damit Schichten wiederverwendet werden können.",
+    "zh-Hans": "固定基础镜像版本，缩小构建上下文，并在应用源码之前复制依赖清单，以便复用构建层。"
+  },
+  "Pass runtime configuration separately from the image. Put durable application data in an appropriate database or volume, and check that a fresh checkout can recreate the environment.": {
+    "pt-BR": "Forneça as configurações de execução separadamente da imagem. Guarde dados duráveis em um banco ou volume adequado e verifique se uma cópia nova do repositório consegue recriar o ambiente.",
+    "es": "Proporciona la configuración de ejecución por separado. Guarda los datos persistentes en una base o volumen adecuado y comprueba que una copia nueva del repositorio pueda recrear el entorno.",
+    "ja": "実行時の設定はイメージと分離します。永続データは適切なデータベースやボリュームに置き、新規チェックアウトから環境を再現できるか確認しましょう。",
+    "fr": "Fournissez la configuration d’exécution séparément de l’image. Stockez les données persistantes dans une base ou un volume adapté et vérifiez qu’une nouvelle copie du dépôt permet de recréer l’environnement.",
+    "de": "Übergib Laufzeiteinstellungen getrennt vom Image. Speichere dauerhafte Daten in einer geeigneten Datenbank oder einem Volume und prüfe, ob ein frischer Checkout die Umgebung wiederherstellt.",
+    "zh-Hans": "将运行配置与镜像分开。把持久数据存入合适的数据库或卷，并验证全新检出代码能否重建环境。"
+  },
+  "Backend Engineer": {
+    "pt-BR": "Engenharia de backend",
+    "es": "Ingeniería de backend",
+    "ja": "バックエンドエンジニア",
+    "fr": "Ingénierie backend",
+    "de": "Backend-Entwicklung",
+    "zh-Hans": "后端工程师"
+  },
+  "REST API": {
+    "pt-BR": "API REST",
+    "es": "API REST",
+    "ja": "REST API",
+    "fr": "API REST",
+    "de": "REST-API",
+    "zh-Hans": "REST API"
+  },
+  "Design the API and domain boundaries for profiles, projects and revisions.": {
+    "pt-BR": "Projete a API e os limites dos domínios de perfis, projetos e revisões.",
+    "es": "Diseña la API y los límites de dominio para perfiles, proyectos y revisiones.",
+    "ja": "プロフィール、プロジェクト、改訂の API とドメイン境界を設計します。",
+    "fr": "Concevez l’API et les limites de domaine des profils, projets et révisions.",
+    "de": "Entwirf die API und die Domänengrenzen für Profile, Projekte und Überarbeitungen.",
+    "zh-Hans": "设计个人资料、项目和修订的 API 与领域边界。"
+  },
+  "Database & DevOps Engineer": {
+    "pt-BR": "Engenharia de banco de dados e DevOps",
+    "es": "Ingeniería de bases de datos y DevOps",
+    "ja": "データベース・DevOps エンジニア",
+    "fr": "Ingénierie bases de données et DevOps",
+    "de": "Datenbank- und DevOps-Entwicklung",
+    "zh-Hans": "数据库与 DevOps 工程师"
+  },
+  "Own database modeling, migrations and a reproducible deployment workflow.": {
+    "pt-BR": "Cuide da modelagem do banco, das migrações e de um fluxo de implantação reproduzível.",
+    "es": "Responsabilízate del modelado de datos, las migraciones y un flujo de despliegue reproducible.",
+    "ja": "データベース設計、移行、再現可能なデプロイ手順を担当します。",
+    "fr": "Prenez en charge la modélisation des données, les migrations et un processus de déploiement reproductible.",
+    "de": "Verantworte Datenbankmodellierung, Migrationen und einen reproduzierbaren Bereitstellungsablauf.",
+    "zh-Hans": "负责数据库建模、迁移及可复现的部署流程。"
+  },
+  "Web & Mobile Contributor": {
+    "pt-BR": "Colaboração web e mobile",
+    "es": "Colaboración web y móvil",
+    "ja": "ウェブ・モバイルの貢献者",
+    "fr": "Contribution web et mobile",
+    "de": "Mitarbeit für Web und Mobilgeräte",
+    "zh-Hans": "网页与移动端贡献者"
+  },
+  "Frontend": {
+    "pt-BR": "Frontend",
+    "es": "Frontend",
+    "ja": "フロントエンド",
+    "fr": "Frontend",
+    "de": "Frontend",
+    "zh-Hans": "前端"
+  },
+  "Accessibility": {
+    "pt-BR": "Acessibilidade",
+    "es": "Accesibilidad",
+    "ja": "アクセシビリティ",
+    "fr": "Accessibilité",
+    "de": "Barrierefreiheit",
+    "zh-Hans": "无障碍"
+  },
+  "Help turn the approved design into an accessible, consistent experience.": {
+    "pt-BR": "Ajude a transformar o design aprovado em uma experiência acessível e consistente.",
+    "es": "Ayuda a convertir el diseño aprobado en una experiencia accesible y coherente.",
+    "ja": "承認済みのデザインを、一貫性のあるアクセシブルな体験にするために協力します。",
+    "fr": "Aidez à transformer le design approuvé en une expérience accessible et cohérente.",
+    "de": "Hilf, das freigegebene Design in eine zugängliche und konsistente Erfahrung umzusetzen.",
+    "zh-Hans": "帮助将已批准的设计转化为一致、无障碍的体验。"
+  },
+  "FLOW-MATIC & COBOL": {
+    "pt-BR": "FLOW-MATIC e COBOL",
+    "es": "FLOW-MATIC y COBOL",
+    "ja": "FLOW-MATIC と COBOL",
+    "fr": "FLOW-MATIC et COBOL",
+    "de": "FLOW-MATIC und COBOL",
+    "zh-Hans": "FLOW-MATIC 与 COBOL"
+  },
+  "How do you document a project’s first release?": {
+    "pt-BR": "Como você documenta o primeiro lançamento de um projeto?",
+    "es": "¿Cómo documentas la primera versión de un proyecto?",
+    "ja": "プロジェクトの初回リリースはどう記録しますか？",
+    "fr": "Comment documenter la première version d’un projet ?",
+    "de": "Wie dokumentierst du die erste Veröffentlichung eines Projekts?",
+    "zh-Hans": "你如何记录项目的首次发布？"
+  },
+  "Share what belongs in a changelog, release note, or project history.": {
+    "pt-BR": "Compartilhe o que deve constar em um histórico de alterações, nota de lançamento ou histórico do projeto.",
+    "es": "Comparte qué debería incluir un registro de cambios, una nota de versión o el historial del proyecto.",
+    "ja": "変更履歴、リリースノート、プロジェクトの沿革に何を書くべきか共有しましょう。",
+    "fr": "Expliquez ce qui doit figurer dans un journal des modifications, une note de version ou l’historique du projet.",
+    "de": "Teile, was in ein Änderungsprotokoll, einen Versionshinweis oder die Projektgeschichte gehört.",
+    "zh-Hans": "分享变更日志、发布说明或项目历史应包含哪些内容。"
+  },
+  "What makes a contribution easy to verify?": {
+    "pt-BR": "O que torna uma contribuição fácil de verificar?",
+    "es": "¿Qué facilita verificar una contribución?",
+    "ja": "貢献を確認しやすくするには？",
+    "fr": "Qu’est-ce qui facilite la vérification d’une contribution ?",
+    "de": "Was macht einen Beitrag leicht überprüfbar?",
+    "zh-Hans": "什么能让贡献更容易核实？"
+  },
+  "Compare useful references: a pull request, design note, issue, or published article.": {
+    "pt-BR": "Compare referências úteis: um pull request, uma nota de design, uma issue ou um artigo publicado.",
+    "es": "Compara referencias útiles: una solicitud de cambios, una nota de diseño, una incidencia o un artículo publicado.",
+    "ja": "プルリクエスト、設計メモ、課題、公開記事など、役立つ資料を比較しましょう。",
+    "fr": "Comparez des références utiles : une demande de fusion, une note de conception, un ticket ou un article publié.",
+    "de": "Vergleiche nützliche Nachweise: Pull Request, Designnotiz, Issue oder veröffentlichter Artikel.",
+    "zh-Hans": "比较有用的参考资料：拉取请求、设计说明、议题或已发表的文章。"
+  },
+  "Open source contributor roundtable": {
+    "pt-BR": "Mesa-redonda de colaboradores de código aberto",
+    "es": "Mesa redonda de colaboradores de código abierto",
+    "ja": "オープンソース貢献者の座談会",
+    "fr": "Table ronde des contributeurs open source",
+    "de": "Gesprächsrunde für Open-Source-Mitwirkende",
+    "zh-Hans": "开源贡献者圆桌讨论"
+  },
+  "Sample event · Online": {
+    "pt-BR": "Evento de exemplo · Online",
+    "es": "Evento de ejemplo · En línea",
+    "ja": "イベント例 · オンライン",
+    "fr": "Exemple d’événement · En ligne",
+    "de": "Beispielveranstaltung · Online",
+    "zh-Hans": "示例活动 · 线上"
+  },
+  "Documenting technical decisions": {
+    "pt-BR": "Documentação de decisões técnicas",
+    "es": "Documentar decisiones técnicas",
+    "ja": "技術的な意思決定の記録",
+    "fr": "Documenter les décisions techniques",
+    "de": "Technische Entscheidungen dokumentieren",
+    "zh-Hans": "记录技术决策"
+  },
+  "Sample workshop · Online": {
+    "pt-BR": "Oficina de exemplo · Online",
+    "es": "Taller de ejemplo · En línea",
+    "ja": "ワークショップ例 · オンライン",
+    "fr": "Exemple d’atelier · En ligne",
+    "de": "Beispielworkshop · Online",
+    "zh-Hans": "示例工作坊 · 线上"
+  },
+  "Community project show-and-tell": {
+    "pt-BR": "Apresentação de projetos da comunidade",
+    "es": "Presentación de proyectos de la comunidad",
+    "ja": "コミュニティのプロジェクト発表会",
+    "fr": "Présentation de projets de la communauté",
+    "de": "Projektvorstellungen aus der Community",
+    "zh-Hans": "社区项目展示"
+  },
+  "Sample meetup · Online": {
+    "pt-BR": "Encontro de exemplo · Online",
+    "es": "Encuentro de ejemplo · En línea",
+    "ja": "交流会の例 · オンライン",
+    "fr": "Exemple de rencontre · En ligne",
+    "de": "Beispieltreffen · Online",
+    "zh-Hans": "示例聚会 · 线上"
+  },
+  "Editorial desk": {
+    "pt-BR": "Equipe editorial",
+    "es": "Equipo editorial",
+    "ja": "編集部",
+    "fr": "Équipe éditoriale",
+    "de": "Redaktion",
+    "zh-Hans": "编辑组"
+  },
+  "Welcome to the preview": {
+    "pt-BR": "Boas-vindas à prévia",
+    "es": "Te damos la bienvenida a la vista previa",
+    "ja": "プレビューへようこそ",
+    "fr": "Bienvenue dans l’aperçu",
+    "de": "Willkommen in der Vorschau",
+    "zh-Hans": "欢迎使用预览"
+  },
+  "This sample inbox shows how a conversation could look. You can write and save a reply draft on this device.": {
+    "pt-BR": "Esta caixa de entrada de exemplo mostra como seria uma conversa. Você pode escrever e salvar um rascunho de resposta neste dispositivo.",
+    "es": "Esta bandeja de ejemplo muestra cómo podría verse una conversación. Puedes escribir y guardar un borrador de respuesta en este dispositivo.",
+    "ja": "この受信トレイは会話のサンプルです。このデバイスに返信の下書きを作成して保存できます。",
+    "fr": "Cette boîte de réception montre à quoi pourrait ressembler une conversation. Vous pouvez écrire et enregistrer un brouillon de réponse sur cet appareil.",
+    "de": "Dieser Beispielposteingang zeigt, wie eine Unterhaltung aussehen könnte. Du kannst auf diesem Gerät einen Antwortentwurf schreiben und speichern.",
+    "zh-Hans": "此示例收件箱展示会话的样子。你可以在此设备上撰写并保存回复草稿。"
+  },
+  "Project desk": {
+    "pt-BR": "Equipe de projetos",
+    "es": "Equipo de proyectos",
+    "ja": "プロジェクト担当",
+    "fr": "Équipe projets",
+    "de": "Projektteam",
+    "zh-Hans": "项目组"
+  },
+  "Documenting a contribution": {
+    "pt-BR": "Como documentar uma contribuição",
+    "es": "Documentar una contribución",
+    "ja": "貢献を記録する",
+    "fr": "Documenter une contribution",
+    "de": "Einen Beitrag dokumentieren",
+    "zh-Hans": "记录一项贡献"
+  },
+  "A useful contribution entry links to work others can inspect, and explains what changed and why it mattered.": {
+    "pt-BR": "Um bom registro aponta para um trabalho que outras pessoas podem consultar e explica o que mudou e por que isso foi importante.",
+    "es": "Un buen registro enlaza a un trabajo que otros pueden consultar y explica qué cambió y por qué fue importante.",
+    "ja": "よい貢献記録は、他の人が確認できる活動にリンクし、何が変わったのか、なぜ重要だったのかを説明します。",
+    "fr": "Une contribution bien documentée renvoie à un travail consultable et explique ce qui a changé et pourquoi cela comptait.",
+    "de": "Ein nützlicher Eintrag verlinkt auf nachvollziehbare Arbeit und erklärt, was sich geändert hat und warum das wichtig war.",
+    "zh-Hans": "有用的贡献记录会链接到他人可查看的成果，并说明发生了什么变化以及其重要性。"
+  },
+  "Community desk": {
+    "pt-BR": "Equipe da comunidade",
+    "es": "Equipo de la comunidad",
+    "ja": "コミュニティ担当",
+    "fr": "Équipe communauté",
+    "de": "Community-Team",
+    "zh-Hans": "社区组"
+  },
+  "Introduce your work": {
+    "pt-BR": "Apresente seu trabalho",
+    "es": "Presenta tu trabajo",
+    "ja": "活動を紹介しましょう",
+    "fr": "Présentez votre travail",
+    "de": "Stell deine Arbeit vor",
+    "zh-Hans": "介绍你的工作"
+  },
+  "What is one project you learned from or helped build?": {
+    "pt-BR": "Qual projeto ajudou você a aprender ou teve sua participação?",
+    "es": "¿De qué proyecto aprendiste o en cuál colaboraste?",
+    "ja": "学びを得た、または制作に協力したプロジェクトを一つ教えてください。",
+    "fr": "Quel projet vous a permis d’apprendre ou avez-vous aidé à réaliser ?",
+    "de": "Aus welchem Projekt hast du gelernt oder an welchem hast du mitgearbeitet?",
+    "zh-Hans": "你从哪个项目中学到了东西，或帮助构建了哪个项目？"
+  },
+  "1970 — Present": {
+    "pt-BR": "1970 — atualidade",
+    "es": "1970 — actualidad",
+    "ja": "1970年 — 現在",
+    "fr": "1970 — aujourd’hui",
+    "de": "1970 — heute",
+    "zh-Hans": "1970 年至今"
+  },
+  "1969 — Present": {
+    "pt-BR": "1969 — atualidade",
+    "es": "1969 — actualidad",
+    "ja": "1969年 — 現在",
+    "fr": "1969 — aujourd’hui",
+    "de": "1969 — heute",
+    "zh-Hans": "1969 年至今"
+  },
+  "Historical figure": {
+    "pt-BR": "Figura histórica",
+    "es": "Figura histórica",
+    "ja": "歴史上の人物",
+    "fr": "Figure historique",
+    "de": "Historische Persönlichkeit",
+    "zh-Hans": "历史人物"
+  },
+  "Engineer": {
+    "pt-BR": "Engenharia",
+    "es": "Ingeniería",
+    "ja": "エンジニア",
+    "fr": "Ingénierie",
+    "de": "Ingenieurwesen",
+    "zh-Hans": "工程师"
+  },
+  "Try another search or select a different filter.": {
+    "pt-BR": "Tente outra busca ou selecione outro filtro.",
+    "es": "Prueba otra búsqueda o selecciona un filtro distinto.",
+    "ja": "別の検索語やフィルターを試してください。",
+    "fr": "Essayez une autre recherche ou choisissez un autre filtre.",
+    "de": "Versuche eine andere Suche oder wähle einen anderen Filter.",
+    "zh-Hans": "请尝试其他关键词或选择其他筛选条件。"
+  },
+  "Browse all content": {
+    "pt-BR": "Ver todo o conteúdo",
+    "es": "Ver todo el contenido",
+    "ja": "すべてのコンテンツを見る",
+    "fr": "Parcourir tout le contenu",
+    "de": "Alle Inhalte ansehen",
+    "zh-Hans": "浏览全部内容"
+  },
+  "People profiles": {
+    "pt-BR": "Perfis de pessoas",
+    "es": "Perfiles de personas",
+    "ja": "人物プロフィール",
+    "fr": "Profils de personnes",
+    "de": "Personenprofile",
+    "zh-Hans": "人物档案"
+  },
+  "Knowledge articles": {
+    "pt-BR": "Artigos de conhecimento",
+    "es": "Artículos de conocimiento",
+    "ja": "ナレッジ記事",
+    "fr": "Articles de la base de connaissances",
+    "de": "Wissensartikel",
+    "zh-Hans": "知识文章"
+  },
+  "Search people, skills, countries…": {
+    "pt-BR": "Buscar pessoas, habilidades, países…",
+    "es": "Buscar personas, habilidades, países…",
+    "ja": "人物、スキル、国を検索…",
+    "fr": "Rechercher des personnes, compétences, pays…",
+    "de": "Personen, Fähigkeiten, Länder suchen…",
+    "zh-Hans": "搜索人物、技能、国家…"
+  },
+  "Search projects, technologies, topics…": {
+    "pt-BR": "Buscar projetos, tecnologias, temas…",
+    "es": "Buscar proyectos, tecnologías, temas…",
+    "ja": "プロジェクト、技術、話題を検索…",
+    "fr": "Rechercher des projets, technologies, sujets…",
+    "de": "Projekte, Technologien, Themen suchen…",
+    "zh-Hans": "搜索项目、技术、主题…"
+  },
+  "Search articles, topics, technologies…": {
+    "pt-BR": "Buscar artigos, temas, tecnologias…",
+    "es": "Buscar artículos, temas, tecnologías…",
+    "ja": "記事、話題、技術を検索…",
+    "fr": "Rechercher des articles, sujets, technologies…",
+    "de": "Artikel, Themen, Technologien suchen…",
+    "zh-Hans": "搜索文章、主题、技术…"
+  },
+  "DevOps": {
+    "pt-BR": "DevOps",
+    "es": "DevOps",
+    "ja": "DevOps",
+    "fr": "DevOps",
+    "de": "DevOps",
+    "zh-Hans": "DevOps"
+  },
+  "Discover the pioneers and practitioners behind the work.": {
+    "pt-BR": "Conheça os pioneiros e profissionais por trás desses trabalhos.",
+    "es": "Descubre a los pioneros y profesionales detrás de estos trabajos.",
+    "ja": "活動を支える先駆者と実践者を紹介します。",
+    "fr": "Découvrez les pionniers et les professionnels à l’origine de ces travaux.",
+    "de": "Entdecke die Pioniere und Fachleute hinter diesen Arbeiten.",
+    "zh-Hans": "认识这些工作背后的先驱与实践者。"
+  },
+  "Explore the technologies people build, share, and depend on.": {
+    "pt-BR": "Explore as tecnologias que as pessoas criam, compartilham e usam no dia a dia.",
+    "es": "Explora las tecnologías que las personas crean, comparten y usan a diario.",
+    "ja": "人々がつくり、共有し、日々使うテクノロジーを探しましょう。",
+    "fr": "Explorez les technologies que les gens créent, partagent et utilisent au quotidien.",
+    "de": "Entdecke Technologien, die Menschen entwickeln, teilen und täglich nutzen.",
+    "zh-Hans": "探索人们创造、分享并依赖的技术。"
+  },
+  "Practical ideas and lessons from the work behind technology.": {
+    "pt-BR": "Ideias práticas e lições de quem cria tecnologia.",
+    "es": "Ideas prácticas y lecciones de quienes crean tecnología.",
+    "ja": "テクノロジーを支える現場から得た実践的なアイデアと教訓。",
+    "fr": "Des idées pratiques et des enseignements tirés du travail derrière la technologie.",
+    "de": "Praktische Ideen und Erkenntnisse aus der Arbeit hinter der Technologie.",
+    "zh-Hans": "来自技术实践的实用想法和经验。"
+  },
+  "Your username": {
+    "pt-BR": "Seu nome de usuário",
+    "es": "Tu nombre de usuario",
+    "ja": "ユーザー名を入力",
+    "fr": "Votre nom d’utilisateur",
+    "de": "Dein Benutzername",
+    "zh-Hans": "你的用户名"
+  },
+  "Terms of Use": {
+    "pt-BR": "Termos de Uso",
+    "es": "Términos de uso",
+    "ja": "利用規約",
+    "fr": "Conditions d’utilisation",
+    "de": "Nutzungsbedingungen",
+    "zh-Hans": "使用条款"
+  },
+  "Privacy Policy": {
+    "pt-BR": "Política de Privacidade",
+    "es": "Política de privacidad",
+    "ja": "プライバシーポリシー",
+    "fr": "Politique de confidentialité",
+    "de": "Datenschutzerklärung",
+    "zh-Hans": "隐私政策"
+  },
+  "Close document": {
+    "pt-BR": "Fechar documento",
+    "es": "Cerrar documento",
+    "ja": "文書を閉じる",
+    "fr": "Fermer le document",
+    "de": "Dokument schließen",
+    "zh-Hans": "关闭文档"
+  },
+  "Scope of this preview": {
+    "pt-BR": "Escopo desta prévia",
+    "es": "Alcance de esta vista previa",
+    "ja": "このプレビューの範囲",
+    "fr": "Périmètre de cet aperçu",
+    "de": "Umfang dieser Vorschau",
+    "zh-Hans": "本预览的范围"
+  },
+  "Developer Magazine is a reference and community preview. It offers public reference material and browser-only tools. The preview does not create a Developer Magazine account, publish drafts, or send messages to other users.": {
+    "pt-BR": "A Developer Magazine é uma prévia de referência e comunidade. Oferece material público de consulta e ferramentas que funcionam no navegador. A prévia não cria uma conta na Developer Magazine, não publica rascunhos e não envia mensagens a outras pessoas.",
+    "es": "Developer Magazine es una vista previa de referencia y comunidad. Ofrece materiales públicos de consulta y herramientas que funcionan en el navegador. No crea una cuenta de Developer Magazine, no publica borradores ni envía mensajes a otras personas.",
+    "ja": "Developer Magazine は、資料閲覧とコミュニティ機能のプレビューです。公開の参考資料とブラウザー内で動くツールを提供します。Developer Magazine のアカウント作成、下書きの公開、他の利用者へのメッセージ送信は行いません。",
+    "fr": "Developer Magazine est un aperçu de ressources et de fonctions communautaires. Il propose des documents publics et des outils utilisables dans le navigateur. Il ne crée pas de compte Developer Magazine, ne publie pas les brouillons et n’envoie pas de messages à d’autres personnes.",
+    "de": "Developer Magazine ist eine Vorschau mit Referenzmaterial und Community-Funktionen. Sie bietet öffentliche Quellen und Werkzeuge, die im Browser laufen. Die Vorschau erstellt kein Developer-Magazine-Konto, veröffentlicht keine Entwürfe und sendet keine Nachrichten an andere Personen.",
+    "zh-Hans": "Developer Magazine 是一个资料与社区功能预览，提供公开参考资料和仅在浏览器中运行的工具。本预览不会创建 Developer Magazine 账号、发布草稿或向其他用户发送消息。"
+  },
+  "Acceptable use and content": {
+    "pt-BR": "Uso permitido e conteúdo",
+    "es": "Uso aceptable y contenido",
+    "ja": "適切な利用とコンテンツ",
+    "fr": "Utilisation acceptable et contenu",
+    "de": "Zulässige Nutzung und Inhalte",
+    "zh-Hans": "可接受使用与内容"
+  },
+  "Use the preview lawfully. Do not impersonate others, infringe their rights, introduce harmful code, or attempt unauthorized access. Use only material you have permission to use. A draft does not transfer ownership of your work. Third-party works and links remain subject to their own terms and licenses.": {
+    "pt-BR": "Use a prévia de forma lícita. Não se passe por outras pessoas, não viole seus direitos, não introduza código malicioso nem tente obter acesso sem autorização. Use apenas material que você tem permissão para usar. Um rascunho não transfere a titularidade do seu trabalho. Obras e links de terceiros continuam sujeitos aos seus próprios termos e licenças.",
+    "es": "Utiliza la vista previa de forma lícita. No suplantes a otras personas, vulneres sus derechos, introduzcas código dañino ni intentes acceder sin autorización. Usa solo materiales que tengas permiso para utilizar. Un borrador no transfiere la titularidad de tu obra. Las obras y los enlaces de terceros se rigen por sus propios términos y licencias.",
+    "ja": "法令に従って利用してください。なりすまし、他者の権利侵害、有害なコードの持ち込み、不正アクセスの試みは禁止です。使用許可のある素材のみ利用してください。下書きを作成しても、作品の権利は移転しません。第三者の作品やリンクには各自の規約とライセンスが適用されます。",
+    "fr": "Utilisez cet aperçu dans le respect de la loi. N’usurpez pas l’identité d’autrui, ne portez pas atteinte à ses droits, n’introduisez pas de code malveillant et ne tentez pas d’accès non autorisé. Utilisez uniquement des contenus que vous êtes autorisé à utiliser. Un brouillon ne transfère pas la propriété de votre travail. Les œuvres et liens tiers restent soumis à leurs conditions et licences.",
+    "de": "Nutze die Vorschau rechtmäßig. Gib dich nicht als andere Person aus, verletze keine Rechte, bringe keinen schädlichen Code ein und versuche keinen unbefugten Zugriff. Verwende nur Material, für das du eine Erlaubnis hast. Ein Entwurf überträgt keine Rechte an deinem Werk. Für Werke und Links Dritter gelten deren eigene Bedingungen und Lizenzen.",
+    "zh-Hans": "请合法使用本预览。不得冒充他人、侵犯他人权利、引入有害代码或尝试未经授权的访问。请仅使用你有权使用的材料。创建草稿不会转移作品所有权。第三方作品和链接仍适用各自的条款与许可。"
+  },
+  "Availability and your rights": {
+    "pt-BR": "Disponibilidade e seus direitos",
+    "es": "Disponibilidad y tus derechos",
+    "ja": "提供状況と利用者の権利",
+    "fr": "Disponibilité et vos droits",
+    "de": "Verfügbarkeit und deine Rechte",
+    "zh-Hans": "可用性与用户权利"
+  },
+  "Reference material may be incomplete or change. Verify important information with its original source. Nothing in these terms limits rights or remedies that cannot be waived under applicable law.": {
+    "pt-BR": "O material de referência pode estar incompleto ou mudar. Confira informações importantes na fonte original. Estes termos não limitam direitos ou medidas de reparação que não possam ser renunciados pela lei aplicável.",
+    "es": "El material de referencia puede estar incompleto o cambiar. Comprueba la información importante en la fuente original. Estos términos no limitan derechos ni recursos irrenunciables según la ley aplicable.",
+    "ja": "参考資料は不完全な場合や変更される場合があります。重要な情報は原典で確認してください。本規約は、適用法上放棄できない権利や救済を制限しません。",
+    "fr": "Les documents de référence peuvent être incomplets ou évoluer. Vérifiez les informations importantes à la source. Rien dans ces conditions ne limite les droits ou recours auxquels il est impossible de renoncer selon la loi applicable.",
+    "de": "Referenzmaterial kann unvollständig sein oder sich ändern. Prüfe wichtige Informationen anhand der Originalquelle. Diese Bedingungen schränken keine Rechte oder Rechtsbehelfe ein, auf die nach geltendem Recht nicht verzichtet werden kann.",
+    "zh-Hans": "参考资料可能不完整或发生变更。请通过原始来源核实重要信息。本条款不限制适用法律规定不可放弃的权利或救济。"
+  },
+  "What this notice covers": {
+    "pt-BR": "O que esta política abrange",
+    "es": "Qué cubre este aviso",
+    "ja": "この通知の対象",
+    "fr": "Périmètre de cet avis",
+    "de": "Geltungsbereich dieses Hinweises",
+    "zh-Hans": "本声明的适用范围"
+  },
+  "This notice covers the Developer Magazine preview maintained by the project owner. The hosting provider delivers the preview and manages access controls. Its privacy policy explains its separate processing, legal bases, retention, and international transfers. External sites have their own privacy policies.": {
+    "pt-BR": "Esta política abrange a prévia da Developer Magazine, mantida pelo responsável pelo projeto. O provedor de hospedagem disponibiliza a prévia e gerencia o controle de acesso. Sua política explica seu tratamento separado, as bases legais, a retenção e as transferências internacionais. Sites externos têm suas próprias políticas de privacidade.",
+    "es": "Este aviso cubre la vista previa de Developer Magazine, que mantiene el responsable del proyecto. El proveedor de alojamiento ofrece la vista previa y gestiona el control de acceso. Su política explica su tratamiento separado, las bases jurídicas, la conservación y las transferencias internacionales. Los sitios externos tienen sus propias políticas de privacidad.",
+    "ja": "この通知は、プロジェクト所有者が管理する Developer Magazine のプレビューに適用されます。ホスティング提供元がプレビューの配信とアクセス制御を行います。提供元による別個の処理、法的根拠、保存期間、国際移転については提供元のポリシーを参照してください。外部サイトには各自のポリシーが適用されます。",
+    "fr": "Cet avis couvre l’aperçu Developer Magazine maintenu par le responsable du projet. Le fournisseur d’hébergement assure la diffusion et le contrôle d’accès. Sa politique explique ses traitements distincts, leurs bases légales, la conservation et les transferts internationaux. Les sites externes ont leurs propres politiques.",
+    "de": "Dieser Hinweis gilt für die Vorschau von Developer Magazine, die vom Projektinhaber betreut wird. Der Hosting-Anbieter stellt die Vorschau bereit und verwaltet die Zugangskontrolle. Seine Datenschutzerklärung erläutert die separate Verarbeitung, Rechtsgrundlagen, Aufbewahrung und internationale Übermittlungen. Externe Websites haben eigene Datenschutzerklärungen.",
+    "zh-Hans": "本声明适用于由项目负责人维护的 Developer Magazine 预览。托管服务商提供预览并管理访问控制。其隐私政策说明独立的数据处理、法律依据、保留期限和跨境传输。外部网站有各自的隐私政策。"
+  },
+  "What is stored and why": {
+    "pt-BR": "O que é armazenado e por quê",
+    "es": "Qué se guarda y para qué",
+    "ja": "保存するデータと目的",
+    "fr": "Données stockées et finalités",
+    "de": "Welche Daten gespeichert werden und warum",
+    "zh-Hans": "存储内容与目的"
+  },
+  "The app uses browser storage to remember your language and theme, profile fields, drafts, follows, saved projects, and message preferences. These values support the features you choose and are not sent by the app to a Developer Magazine backend. The app adds no advertising or analytics trackers.": {
+    "pt-BR": "O app usa o armazenamento do navegador para lembrar o idioma, o tema, os campos de perfil, os rascunhos, os perfis seguidos, os projetos salvos e as preferências de mensagens. Esses dados viabilizam os recursos que você escolhe e não são enviados pelo app a um servidor da Developer Magazine. O app não adiciona rastreadores de publicidade ou análise.",
+    "es": "La aplicación usa el almacenamiento del navegador para recordar el idioma, el tema, los campos del perfil, los borradores, los perfiles que sigues, los proyectos guardados y las preferencias de mensajes. Estos datos permiten las funciones que eliges y la aplicación no los envía a un servidor de Developer Magazine. La aplicación no añade rastreadores publicitarios ni de análisis.",
+    "ja": "アプリはブラウザーの保存領域に、言語、テーマ、プロフィール項目、下書き、フォロー、保存したプロジェクト、メッセージ設定を保持します。これらは選んだ機能を提供するために使われ、Developer Magazine のバックエンドには送信されません。アプリは広告や分析用のトラッカーを追加しません。",
+    "fr": "L’application utilise le stockage du navigateur pour mémoriser la langue, le thème, les champs du profil, les brouillons, les abonnements, les projets enregistrés et les préférences de messagerie. Ces données servent aux fonctions choisies et ne sont pas envoyées par l’application à un serveur Developer Magazine. L’application n’ajoute aucun traceur publicitaire ou analytique.",
+    "de": "Die App speichert Sprache, Design, Profilfelder, Entwürfe, gefolgte Profile, gespeicherte Projekte und Nachrichteneinstellungen im Browser. Diese Daten unterstützen die gewählten Funktionen. Die App sendet sie nicht an einen Developer-Magazine-Server und setzt keine Werbe- oder Analyse-Tracker ein.",
+    "zh-Hans": "应用使用浏览器存储记住语言、主题、资料字段、草稿、关注、已保存项目和消息偏好。这些数据用于你选择的功能，应用不会将其发送到 Developer Magazine 后端，也不会添加广告或分析跟踪器。"
+  },
+  "Hosting, sharing and retention": {
+    "pt-BR": "Hospedagem, compartilhamento e retenção",
+    "es": "Alojamiento, comunicación y conservación",
+    "ja": "ホスティング・共有・保存期間",
+    "fr": "Hébergement, partage et conservation",
+    "de": "Hosting, Weitergabe und Aufbewahrung",
+    "zh-Hans": "托管、共享与保留"
+  },
+  "The hosting service may process technical data such as IP addresses, access logs, and requested URLs for delivery and security. Global search terms and selected roles can appear in URLs and browser history; avoid entering sensitive information. Local values remain until removed or cleared by your browser. Hosting data follows the provider’s policy.": {
+    "pt-BR": "A hospedagem pode tratar dados técnicos, como endereços IP, registros de acesso e URLs solicitadas, para entregar e proteger o serviço. Termos da busca global e funções selecionadas podem aparecer nas URLs e no histórico do navegador; evite inserir informações sensíveis. Os dados locais ficam até serem removidos ou limpos pelo navegador. Os dados de hospedagem seguem a política do provedor.",
+    "es": "El alojamiento puede tratar datos técnicos como direcciones IP, registros de acceso y URL solicitadas para prestar y proteger el servicio. Los términos de búsqueda global y los roles seleccionados pueden aparecer en las URL y en el historial; evita introducir datos sensibles. Los datos locales se conservan hasta que se eliminen o el navegador los borre. Los datos de alojamiento se rigen por la política del proveedor.",
+    "ja": "ホスティングサービスは配信とセキュリティのため、IP アドレス、アクセスログ、リクエストされた URL などを処理する場合があります。サイト全体の検索語や選択した役割は URL や閲覧履歴に表示されることがあるため、機微な情報は入力しないでください。ローカルデータは削除されるまで残ります。ホスティングデータは提供元のポリシーに従います。",
+    "fr": "L’hébergeur peut traiter des données techniques, comme les adresses IP, les journaux d’accès et les URL demandées, pour fournir et sécuriser le service. Les recherches globales et les rôles choisis peuvent figurer dans les URL et l’historique : évitez les données sensibles. Les données locales restent jusqu’à leur suppression. Les données d’hébergement suivent la politique du fournisseur.",
+    "de": "Der Hosting-Dienst kann zur Auslieferung und Sicherheit technische Daten wie IP-Adressen, Zugriffsprotokolle und angeforderte URLs verarbeiten. Globale Suchbegriffe und ausgewählte Rollen können in URLs und im Browserverlauf stehen. Gib keine sensiblen Informationen ein. Lokale Daten bleiben bis zur Löschung im Browser. Für Hosting-Daten gilt die Erklärung des Anbieters.",
+    "zh-Hans": "托管服务可能为提供服务和保障安全处理 IP 地址、访问日志和请求网址等技术数据。全站搜索词和所选角色可能出现在网址和浏览记录中，请勿输入敏感信息。本地数据保留至被删除或浏览器清除。托管数据遵循提供方的政策。"
+  },
+  "Published reference material": {
+    "pt-BR": "Material de referência publicado",
+    "es": "Material de referencia publicado",
+    "ja": "公開参考資料",
+    "fr": "Documents de référence publiés",
+    "de": "Veröffentlichtes Referenzmaterial",
+    "zh-Hans": "已发布的参考资料"
+  },
+  "Public profiles use the sources linked on their pages for reference and educational purposes. If a profile concerns you, you can request a correction or ask the maintainer to review its inclusion.": {
+    "pt-BR": "Os perfis públicos usam as fontes vinculadas nas páginas para fins de referência e educação. Se um perfil se refere a você, é possível pedir uma correção ou solicitar que o responsável revise sua inclusão.",
+    "es": "Los perfiles públicos usan las fuentes enlazadas en sus páginas con fines de referencia y educación. Si un perfil se refiere a ti, puedes pedir que se corrija o que se revise su inclusión.",
+    "ja": "公開プロフィールは、参照と教育を目的として各ページに掲載された出典を使用します。ご自身に関するプロフィールの訂正や掲載の見直しは、管理者に依頼できます。",
+    "fr": "Les profils publics s’appuient sur les sources liées à chaque page à des fins de référence et d’éducation. Si un profil vous concerne, vous pouvez demander une correction ou un réexamen de sa publication.",
+    "de": "Öffentliche Profile nutzen die auf ihren Seiten verlinkten Quellen zu Referenz- und Bildungszwecken. Betrifft dich ein Profil, kannst du eine Korrektur oder die Überprüfung seiner Aufnahme beantragen.",
+    "zh-Hans": "公开资料引用页面中链接的来源，供参考和教育使用。如果资料涉及你，可以要求更正或请维护者审查是否应保留该资料。"
+  },
+  "Access, correction and deletion": {
+    "pt-BR": "Acesso, correção e exclusão",
+    "es": "Acceso, rectificación y eliminación",
+    "ja": "アクセス・訂正・削除",
+    "fr": "Accès, rectification et effacement",
+    "de": "Zugriff, Berichtigung und Löschung",
+    "zh-Hans": "访问、更正与删除"
+  },
+  "Use Settings to view or correct your local profile. In Settings → Preview data, you can clear the local profile and drafts. To remove remaining preferences and saved activity, clear this site’s data in your browser. Clear browser history separately if needed.": {
+    "pt-BR": "Use Configurações para ver ou corrigir seu perfil local. Em Configurações → Dados da prévia, você pode limpar o perfil e os rascunhos. Para remover as demais preferências e atividades salvas, limpe os dados deste site no navegador. Se necessário, limpe o histórico separadamente.",
+    "es": "Usa Configuración para consultar o corregir tu perfil local. En Configuración → Datos de la vista previa puedes borrar el perfil y los borradores. Para eliminar el resto de preferencias y actividad guardada, borra los datos del sitio en el navegador. Si hace falta, borra el historial por separado.",
+    "ja": "「設定」でローカルプロフィールを閲覧・訂正できます。「設定」→「プレビューデータ」でプロフィールと下書きを削除できます。残りの設定や活動データを消すにはブラウザーでこのサイトのデータを削除してください。閲覧履歴は必要に応じて別途削除してください。",
+    "fr": "Utilisez Paramètres pour consulter ou corriger le profil local. Dans Paramètres → Données de l’aperçu, vous pouvez supprimer le profil et les brouillons. Pour supprimer les autres préférences et activités enregistrées, effacez les données de ce site dans votre navigateur. Effacez l’historique séparément si nécessaire.",
+    "de": "In Einstellungen kannst du dein lokales Profil ansehen und korrigieren. Unter Einstellungen → Vorschaudaten kannst du Profil und Entwürfe löschen. Lösche die Websitedaten im Browser, um übrige Einstellungen und Aktivitäten zu entfernen. Lösche den Verlauf bei Bedarf separat.",
+    "zh-Hans": "在“设置”中查看或更正本地资料。在“设置 → 预览数据”中可清除本地资料和草稿。若要删除其余偏好和已保存的活动，请在浏览器中清除此网站的数据。如有需要，请另行清除浏览历史。"
+  },
+  "Data rights and requests": {
+    "pt-BR": "Direitos sobre dados e solicitações",
+    "es": "Derechos sobre datos y solicitudes",
+    "ja": "データに関する権利と請求",
+    "fr": "Droits sur les données et demandes",
+    "de": "Datenschutzrechte und Anfragen",
+    "zh-Hans": "数据权利与请求"
+  },
+  "Depending on the applicable law, you may request information about processing and sharing, confirmation and access, correction, deletion, anonymization or blocking, restriction, portability, and objection. Where consent applies, you can withdraw it and ask about the consequences of refusing it. Where applicable, you can also request review of solely automated decisions and complain to your data protection authority. In Brazil, consult the LGPD and the ANPD; in the EEA, consult your local supervisory authority.": {
+    "pt-BR": "Conforme a lei aplicável, você pode pedir informações sobre tratamento e compartilhamento, confirmação e acesso, correção, exclusão, anonimização ou bloqueio, limitação e portabilidade, além de se opor ao tratamento. Quando o consentimento for aplicável, você pode revogá-lo e perguntar sobre as consequências de não fornecê-lo. Quando cabível, também pode pedir revisão de decisões exclusivamente automatizadas e reclamar à autoridade de proteção de dados. No Brasil, consulte a LGPD e a ANPD; no EEE, consulte sua autoridade local.",
+    "es": "Según la ley aplicable, puedes solicitar información sobre el tratamiento y la comunicación de datos, confirmación y acceso, rectificación, supresión, anonimización o bloqueo, limitación y portabilidad, y oponerte al tratamiento. Cuando corresponda, puedes retirar el consentimiento y preguntar por las consecuencias de negarlo. También puedes pedir la revisión de decisiones exclusivamente automatizadas y reclamar ante tu autoridad de protección de datos cuando proceda. En Brasil, consulta la LGPD y la ANPD; en el EEE, tu autoridad local.",
+    "ja": "適用法に応じ、処理と共有の情報、処理の確認とアクセス、訂正、削除、匿名化またはブロック、処理の制限、データポータビリティを求めたり、処理に異議を申し立てたりできます。同意が適用される場合は撤回し、同意しない場合の影響を確認できます。該当する場合は完全に自動化された決定の見直しや監督機関への苦情申立ても可能です。ブラジルでは LGPD と ANPD、EEA では地域の監督機関をご確認ください。",
+    "fr": "Selon la loi applicable, vous pouvez demander des informations sur le traitement et le partage, la confirmation et l’accès, la rectification, l’effacement, l’anonymisation ou le blocage, la limitation et la portabilité, et vous opposer au traitement. Si le consentement s’applique, vous pouvez le retirer et connaître les conséquences d’un refus. Le cas échéant, vous pouvez demander le réexamen de décisions entièrement automatisées et saisir l’autorité de protection des données. Au Brésil, consultez la LGPD et l’ANPD ; dans l’EEE, l’autorité locale.",
+    "de": "Je nach geltendem Recht kannst du Auskunft über Verarbeitung und Weitergabe, Bestätigung und Zugang, Berichtigung, Löschung, Anonymisierung oder Sperrung, Einschränkung und Datenübertragbarkeit verlangen und der Verarbeitung widersprechen. Beruht sie auf Einwilligung, kannst du diese widerrufen und nach den Folgen einer Ablehnung fragen. Soweit anwendbar kannst du die Überprüfung ausschließlich automatisierter Entscheidungen verlangen und dich bei der Datenschutzaufsicht beschweren. In Brasilien sind die LGPD und die ANPD maßgeblich, im EWR die örtliche Aufsichtsbehörde.",
+    "zh-Hans": "根据适用法律，你可以要求了解处理和共享情况、确认处理并访问数据、要求更正、删除、匿名化或屏蔽、限制处理、数据可携带，也可以提出异议。如果处理基于同意，你可以撤回同意，并询问拒绝同意的后果。在适用情况下，也可要求复核完全自动化的决定，并向数据保护机构投诉。在巴西，请参阅 LGPD 和 ANPD 指引；在欧洲经济区，请联系当地监管机构。"
+  },
+  "Who to contact": {
+    "pt-BR": "Com quem falar",
+    "es": "A quién contactar",
+    "ja": "問い合わせ先",
+    "fr": "Qui contacter",
+    "de": "Kontakt",
+    "zh-Hans": "联系对象"
+  },
+  "For this preview or its published content, contact the project maintainer. The project’s issue tracker is public: use it only to ask for a private contact channel, never to post personal data or a rights request. If you contact the maintainer privately, the information you provide is used to respond and kept as needed to handle the request or meet legal obligations. For hosting data, use the hosting provider’s privacy contact.": {
+    "pt-BR": "Para questões sobre a prévia ou seu conteúdo publicado, fale com o responsável pelo projeto. O canal de issues é público: use-o apenas para pedir um meio de contato privado, nunca para publicar dados pessoais ou uma solicitação de direitos. No contato privado, as informações fornecidas são usadas para responder e mantidas pelo tempo necessário para tratar o pedido ou cumprir obrigações legais. Para dados da hospedagem, use o canal de privacidade do provedor.",
+    "es": "Para consultas sobre la vista previa o el contenido publicado, contacta con el responsable del proyecto. El gestor de incidencias es público: úsalo solo para pedir un canal privado, nunca para publicar datos personales o una solicitud de derechos. Por vía privada, la información que proporciones se usa para responder y se conserva según sea necesario para tramitar la solicitud o cumplir obligaciones legales. Para datos de alojamiento, usa el canal de privacidad del proveedor.",
+    "ja": "プレビューや公開コンテンツについてはプロジェクト管理者にご連絡ください。課題トラッカーは公開されているため、非公開の連絡先を尋ねる用途に限り、個人データや権利行使の請求は投稿しないでください。非公開で提供された情報は、回答、請求の処理、法的義務の履行に必要な範囲で使用・保存されます。ホスティングデータについては、提供元のプライバシー窓口をご利用ください。",
+    "fr": "Pour l’aperçu ou son contenu publié, contactez le responsable du projet. Le suivi des tickets est public : utilisez-le seulement pour demander un canal privé, sans publier de données personnelles ni de demande d’exercice de droits. En privé, les informations fournies servent à vous répondre et sont conservées le temps nécessaire pour traiter la demande ou respecter des obligations légales. Pour les données d’hébergement, utilisez le canal de confidentialité du fournisseur.",
+    "de": "Wende dich bei Fragen zur Vorschau oder ihren veröffentlichten Inhalten an die Projektbetreuung. Der Issue-Tracker ist öffentlich. Frage dort nur nach einem privaten Kontaktweg und veröffentliche keine personenbezogenen Daten oder Anträge zur Ausübung deiner Rechte. Privat bereitgestellte Informationen dienen der Antwort und bleiben nur so lange gespeichert, wie es für die Anfrage oder rechtliche Pflichten nötig ist. Für Hosting-Daten nutze den Datenschutzkontakt des Anbieters.",
+    "zh-Hans": "有关本预览或已发布内容，请联系项目维护者。项目问题区是公开的，只可用来询问私密联系方式，切勿在那里发布个人数据或权利请求。私下提供的信息仅用于答复，并按处理请求或履行法律义务所需的期限保留。有关托管数据，请使用服务商的隐私联系渠道。"
+  },
+  "Project maintainer contact": {
+    "pt-BR": "Contato com o responsável pelo projeto",
+    "es": "Contacto con el responsable del proyecto",
+    "ja": "プロジェクト管理者への連絡",
+    "fr": "Contacter le responsable du projet",
+    "de": "Kontakt zur Projektbetreuung",
+    "zh-Hans": "联系项目维护者"
+  },
+  "ANPD: rights under the LGPD": {
+    "pt-BR": "ANPD: direitos previstos na LGPD",
+    "es": "ANPD: derechos de la LGPD",
+    "ja": "ANPD：LGPD に基づく権利",
+    "fr": "ANPD : droits prévus par la LGPD",
+    "de": "ANPD: Rechte nach der LGPD",
+    "zh-Hans": "ANPD：LGPD 规定的权利"
+  },
+  "EDPB: rights under the GDPR": {
+    "pt-BR": "EDPB: direitos previstos no GDPR",
+    "es": "EDPB: derechos del RGPD",
+    "ja": "EDPB：GDPR に基づく権利",
+    "fr": "CEPD : droits prévus par le RGPD",
+    "de": "EDSA: Rechte nach der DSGVO",
+    "zh-Hans": "EDPB：GDPR 规定的权利"
+  }
+}
