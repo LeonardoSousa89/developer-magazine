@@ -1,0 +1,62 @@
+[
+  {
+    "id": "turing",
+    "name": "Alan Turing",
+    "role": "The father of theoretical computer science",
+    "years": "1912 — 1954",
+    "category": "Computer science",
+    "bio": "Mathematician. Codebreaker. A mind that helped define what a machine could think. His work laid the foundations of modern computing.",
+    "country": "United Kingdom",
+    "tags": ["Computability"]
+  },
+  {
+    "id": "hamilton",
+    "name": "Margaret Hamilton",
+    "role": "Software engineer · Apollo program",
+    "years": "1936 — 2026",
+    "category": "Engineering",
+    "bio": "Led the team that developed the onboard flight software for NASA’s Apollo missions. Her approach to reliability helped make the Moon landing possible.",
+    "country": "United States",
+    "tags": ["Software engineering", "NASA"]
+  },
+  {
+    "id": "carmack",
+    "name": "John Carmack",
+    "role": "Game developer · Co-founder, id Software",
+    "years": "1970 — Present",
+    "category": "Game development",
+    "bio": "A pioneering engineer behind Doom and Quake, whose work in real-time 3D graphics changed how we build and experience virtual worlds.",
+    "country": "United States",
+    "tags": ["Game engines", "Computer graphics"]
+  },
+  {
+    "id": "hopper",
+    "name": "Grace Hopper",
+    "role": "Computer scientist · Programming pioneer",
+    "years": "1906 — 1992",
+    "category": "Languages",
+    "bio": "A pioneer of compiler technology who helped shape COBOL and made programming more accessible through human-readable languages.",
+    "country": "United States",
+    "tags": ["Compilers", "COBOL"]
+  },
+  {
+    "id": "torvalds",
+    "name": "Linus Torvalds",
+    "role": "Creator of Linux & Git",
+    "years": "1969 — Present",
+    "category": "Open source",
+    "bio": "Created the Linux kernel and Git, two essential foundations of open source collaboration and modern software development.",
+    "country": "Finland",
+    "tags": ["Linux", "Open source"]
+  },
+  {
+    "id": "lovelace",
+    "name": "Ada Lovelace",
+    "role": "Mathematician · Computing visionary",
+    "years": "1815 — 1852",
+    "category": "Computer science",
+    "bio": "Her notes on the Analytical Engine included an algorithm intended for a machine and a remarkable vision for computing beyond arithmetic.",
+    "country": "United Kingdom",
+    "tags": ["Algorithms", "History"]
+  }
+]
